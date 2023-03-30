@@ -1,10 +1,10 @@
 # Multi-task and adversarial learning for accented speech recognition
 
-This framework can be used to an ASR model together with an accent classifier. The classifier is placed on top of an encoder block, receiving its output as input. The models are either trained jointly in a multi-task learning fashion, or adversarially, where a gradient reversal layer is prepended to the classifier. Our experiments are performed on the [Conformer Transducer](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/nemo/models/stt_en_conformer_transducer_large), but there are other models that use the same code base; they can also be used here. The purpose of this framework is explained in more detail in [this paper](TODO).
+This framework can be used to an ASR model together with an accent classifier. The classifier is placed on top of an encoder block, receiving its output as input. The models are either trained jointly in a multi-task learning fashion, or adversarially, where a gradient reversal layer is prepended to the classifier. Our experiments are performed on the [Conformer Transducer](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/nemo/models/stt_en_conformer_transducer_large), but there are other models that use the same code base; they can also be used here. The purpose of this framework is explained in more detail in the accompanying publication, cited at the end of this document.
 
 ## Results from the DAGA paper
 
-The experiments behind the results mentioned in the DAGA paper (see the citation at the end of this document) can be found in the following notebooks:
+The experiments behind the results discussed in the aforementioned paper can be found in the following notebooks:
 
 - The optimization experiments (Figure 2) can be found in `scripts/results_analysis/wers/weights_vs_lrs.ipynb`.
 - The WERs achieved for the different branching points can be found in `scripts/results_analysis/wers/branches.ipynb`.
