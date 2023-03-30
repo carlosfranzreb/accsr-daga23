@@ -1,0 +1,6 @@
+ac:
+  classname: AC # can be any classifier that receives as input the output of a large conformer block
+  ckpt: null # file to initialize the classifier. If null, the classifier is initialized randomly.
+  n_accents: 2 # no. of accents in the training set. Must equal the number of training files.
+  dropout: .5 # dropout probability for all layers
+  binary: true # whether the classifier is binary or not

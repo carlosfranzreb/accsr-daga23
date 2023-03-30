@@ -1,0 +1,10 @@
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17784450.mp3", "text": "auch posen und krakau waren mal hauptst\u00e4dte von polen", "duration": 6.2}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_20428000.mp3", "text": "in dieser funktion produzierte er die schweizer soap \u201el\u00fcthi und blanc\u201c", "duration": 8.3}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_32231734.mp3", "text": "er besuchte zun\u00e4chst die stadtschule in driesen und dann das gymnasium in gleiwitz", "duration": 7.3}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17783886.mp3", "text": "wir haben euch schon erwartet", "duration": 2.8}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_32230545.mp3", "text": "sie ist weiterhin aufsichtsratsmitglied in verschiedenen konzerngesellschaften der allianz", "duration": 7.6}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17873902.mp3", "text": "die firewall ist l\u00f6chrig wie ein schweizer k\u00e4se", "duration": 4.9}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_32239515.mp3", "text": "ray geht still mit maggie weiter zum auto und f\u00e4hrt davon", "duration": 4.9}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_32224281.mp3", "text": "das findet sich auch im bereich des rechtsextremismus in der bundesrepublik deutschland", "duration": 6.2}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_28908199.mp3", "text": "holger astrup ist verheiratet und hat zwei kinder", "duration": 4.0}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18002381.mp3", "text": "ja das habe ich auch schon versucht aber das bringt nichts", "duration": 3.6}

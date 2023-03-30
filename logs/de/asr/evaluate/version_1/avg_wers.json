@@ -1,0 +1,13 @@
+{
+    "test_at.txt": {"avg_wer": 0.915110568173319, "n_words": 40111},
+    "test_gb.txt": {"avg_wer": 0.9233870967741935, "n_words": 1240},
+    "test_it.txt": {"avg_wer": 0.9201298701298701, "n_words": 9240},
+    "test_de_al.txt": {"avg_wer": 0.9110277569392348, "n_words": 6665},
+    "test_fr.txt": {"avg_wer": 0.8665411849063368, "n_words": 11157},
+    "test_de_ni.txt": {"avg_wer": 0.9645080946450809, "n_words": 6424},
+    "test_ch.txt": {"avg_wer": 0.9315713674049277, "n_words": 25691},
+    "test_de.txt": {"avg_wer": 0.9130520889000661, "n_words": 318110},
+    "test_us.txt": {"avg_wer": 0.923644251626898, "n_words": 2305},
+    "test_ca.txt": {"avg_wer": 0.9595176571920758, "n_words": 1161},
+    "test_ru.txt": {"avg_wer": 0.9019607843137255, "n_words": 7650}
+}

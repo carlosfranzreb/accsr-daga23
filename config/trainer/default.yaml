@@ -1,0 +1,17 @@
+trainer:
+  max_epochs: 2
+  accumulate_grad_batches: 4
+  limit_train_batches: 2 # how much of training dataset to use (pctg as float or n_batches as int)
+  limit_val_batches: 2 # how much of validation dataset to use (pctg as float or n_batches as int)
+
+optim:
+  name: adamw
+  lr: 0.00001 # maximal learning rate
+  betas: [0.9, 0.98]
+  weight_decay: 0.001
+  ac_args:
+    lr: 0.01
+
+checkpointing: # define how and when to save checkpoints
+  monitor: "val_wer - unweighted avg." # name of the logged metric to measure the best models (TODO: make this a config param)
+  mode: min # whether the monitored metric should be minimized or maximized (min or max as values)

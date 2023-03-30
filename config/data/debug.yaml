@@ -1,0 +1,44 @@
+data:
+  root: /Users/cafr02/datasets
+  folder: data/de/debug # relative path to the folder where the data is stored
+  seen_accents: # accents used to train the AC
+    - de # first seen accent is the one used for pre-training
+    - at
+    - ch
+  unseen_accents: # accents unknown to the AC
+    - ca
+
+  config: # configuration applicable to all data loaders
+    sample_rate: 16000
+    batch_size: 2
+    num_workers: 0
+    pin_memory: true
+    use_start_end_token: false
+    trim_silence: false
+    max_duration: 18.9
+    min_duration: 0.1
+    # tarred datasets
+    is_tarred: false
+    tarred_audio_filepaths: null
+    shuffle_n: 2048
+    # bucketing params
+    bucketing_strategy: "synced_randomized"
+    bucketing_batch_size: null
+    return_sample_id: false
+    drop_last: false
+
+  config_pretrain: # configuration specific to the pre-train data loaders
+    shuffle: false
+
+  config_train: # configuration specific to the train data loaders
+    shuffle: false
+
+  config_test: # configuration specific to the test data loaders
+    shuffle: false
+
+  spec_augment: # spectrogram augmentation, initialized by the NeMO ASR model
+    _target_: nemo.collections.asr.modules.SpectrogramAugmentation
+    freq_masks: 2
+    time_masks: 10
+    freq_width: 27
+    time_width: 0.05

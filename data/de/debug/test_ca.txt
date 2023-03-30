@@ -1,0 +1,10 @@
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_19575693.mp3", "text": "bundesliga verfehlte", "duration": 3.1}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_19575694.mp3", "text": "zuvor stand hier der bauernhof von heinrich blesse", "duration": 4.9}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_19575695.mp3", "text": "ein garten im stil des barock in einem englischen landschaftspark umgeben das bauwerk", "duration": 6.7}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_19575696.mp3", "text": "der stein steht schr\u00e4g zu kirchenwand geneigt ohne diese zu ber\u00fchren", "duration": 6.5}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_19575697.mp3", "text": "auch aminos\u00e4uren k\u00f6nnen als liganden koordinieren", "duration": 5.1}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_32665843.mp3", "text": "seine mutter klara stammte aus der preu\u00dfischen offiziersfamilie von treskow", "duration": 7.0}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_32665844.mp3", "text": "bereits in ihrer jugend z\u00e4hlte li zu den besten spielerinnen ihres landes", "duration": 6.5}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_32665847.mp3", "text": "als h\u00f6rbuch erschien sein feature der erste weltkrieg mit originalaufnahmen und musik der zeit", "duration": 7.5}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_32665846.mp3", "text": "eine rein h\u00e4ndische programmierung der produktionsanlagen ist bei dieser komplexit\u00e4t nicht mehr m\u00f6glich", "duration": 7.1}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_32665845.mp3", "text": "er weilte rund acht monate dort und brach nach seiner r\u00fcckkehr das medizinstudium ab", "duration": 8.1}

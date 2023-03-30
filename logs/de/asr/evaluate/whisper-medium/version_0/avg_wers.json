@@ -1,0 +1,46 @@
+{
+  "data/train_split_hpc/test_de.txt": {
+    "avg_wer": 0.06524472666687624,
+    "n_words": 318110
+  },
+  "data/train_split_hpc/test_at.txt": {
+    "avg_wer": 0.08119967091321582,
+    "n_words": 40111
+  },
+  "data/train_split_hpc/test_ch.txt": {
+    "avg_wer": 0.08111790121054066,
+    "n_words": 25691
+  },
+  "data/train_split_hpc/test_fr.txt": {
+    "avg_wer": 0.09079501658151833,
+    "n_words": 11157
+  },
+  "data/train_split_hpc/test_it.txt": {
+    "avg_wer": 0.12987012987012986,
+    "n_words": 9240
+  },
+  "data/train_split_hpc/test_ru.txt": {
+    "avg_wer": 0.12483660130718954,
+    "n_words": 7650
+  },
+  "data/train_split_hpc/test_us.txt": {
+    "avg_wer": 0.28459869848156183,
+    "n_words": 2305
+  },
+  "data/train_split_hpc/test_gb.txt": {
+    "avg_wer": 0.20967741935483872,
+    "n_words": 1240
+  },
+  "data/train_split_hpc/test_ca.txt": {
+    "avg_wer": 0.14987080103359174,
+    "n_words": 1161
+  },
+  "data/train_split_hpc/test_de_al.txt": {
+    "avg_wer": 0.058514628657164294,
+    "n_words": 6665
+  },
+  "data/train_split_hpc/test_de_ni.txt": {
+    "avg_wer": 0.06320049813200498,
+    "n_words": 6424
+  }
+}

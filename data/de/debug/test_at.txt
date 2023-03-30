@@ -1,0 +1,10 @@
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_31449916.mp3", "text": "er ist nach eustache de saint pierre der bekannteste der gruppe", "duration": 4.9}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_19730674.mp3", "text": "eine erste kleinformatige vorstudie in bleistift findet sich in einem von kellers skizzenb\u00fcchern", "duration": 10.1}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_19703888.mp3", "text": "er blieb ohne erfolg und lag in st\u00e4ndigem streit mit den \u00f6sterreichischen gener\u00e4len", "duration": 9.0}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18507972.mp3", "text": "mein garten ist teil eines kleingartenvereins", "duration": 3.7}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_24131267.mp3", "text": "was habe ich damals f\u00fcr einen unsinn getr\u00e4umt", "duration": 3.6}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_21905399.mp3", "text": "der erste punkt bezieht sich auf die angst vor einwanderungswellen", "duration": 5.2}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_20143462.mp3", "text": "anschlie\u00dfend war er bei der regierung in d\u00fcsseldorf besch\u00e4ftigt", "duration": 4.1}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_21889444.mp3", "text": "jede quersubventionierung soll in zukunft unzul\u00e4ssig sein", "duration": 10.4}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18192538.mp3", "text": "silke und marco verkr\u00fcmelten sich unauff\u00e4llig um allein zu sein", "duration": 4.7}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_19615389.mp3", "text": "im frieden wurde die volksmarine aus dem kommando volksmarine in rostockgehlsdorf gef\u00fchrt", "duration": 9.0}

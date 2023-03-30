@@ -1,0 +1,5 @@
+INFO:root:Pre-train accent: us (350 h)
+INFO:root:Seen accents: ['uk', 'aus', 'in', 'ca'] with train/test ratio 0.8/0.19999999999999996
+INFO:root:Unseen accents: ['sc', 'nz', 'ir', 'ger', 'sa', 'hk', 'fil', 'mal', 'si', 'wel', 'etc']
+INFO:root:Dumping data from CV10 for these accents to folder data_en/train_split.
+INFO:root:Shuffling? True

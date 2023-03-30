@@ -1,0 +1,10 @@
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17675348.mp3", "text": "brazzaville ist die hauptstadt der republik kongo", "duration": 3.9}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_21137244.mp3", "text": "ich werde den prozess sehr sorgf\u00e4ltig beobachten", "duration": 3.8}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18030048.mp3", "text": "gibt es in hamm ein sch\u00f6nes museum", "duration": 2.9}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26515987.mp3", "text": "gefeuert werden die lokomotiven mit kohle", "duration": 3.9}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_22197850.mp3", "text": "auf gemeindeebene setzt sich der kreis aus vierzehn gro\u00dfgemeinden und achtzehn gemeinden zusammen", "duration": 7.3}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_19864260.mp3", "text": "sie wurde im kirchenslawischen von der \u0479ligatur verdr\u00e4ngt und hat seitdem keinen wert", "duration": 6.5}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_27481952.mp3", "text": "division f\u00fcr gruppecfahrzeuge wurde", "duration": 4.5}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17299353.mp3", "text": "nicht alles was hinkt ist ein vergleich", "duration": 4.0}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_32609245.mp3", "text": "jackson ist fellow der british academy und der royal historical society", "duration": 6.7}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18312804.mp3", "text": "ob das wirklich elfmeter war erscheint dem kapit\u00e4n fragw\u00fcrdig", "duration": 6.2}

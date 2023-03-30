@@ -1,0 +1,602 @@
+[
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_24969788.mp3",
+    "text": "Das wollen wir auf den Weg bringen.",
+    "duration": 3.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_24969789.mp3",
+    "text": "Von Chapman stammen auch wichtige Arbeiten zur Plasmaphysik.",
+    "duration": 5.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_24969792.mp3",
+    "text": "Auf jeden Fall habe ich die Absicht, das sehr genau zu verfolgen.",
+    "duration": 6.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_20071687.mp3",
+    "text": "Der Firmensitz und die Fabrikation befand sich in Wien, Atzgersdorf.",
+    "duration": 6.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_20071688.mp3",
+    "text": "Russland scheiterte dann in den Playoffs der Gruppenzweiten aufgrund der Ausw\u00e4rtstorregel an Slowenien.",
+    "duration": 8.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_20071689.mp3",
+    "text": "Der ebenfalls emigrierte K\u00fcnstler Richard Seewald illustrierte den Umschlag.",
+    "duration": 7.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_20071690.mp3",
+    "text": "Er liegt etwas wests\u00fcdwestlich von dessen Zentrum.",
+    "duration": 5.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_20071691.mp3",
+    "text": "Auch Luxemburger waren dabei und es gab auch eine M\u00fcnchner Sektion.",
+    "duration": 6.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_20071742.mp3",
+    "text": "Er besuchte in Wien das Gymnasium \u201eTheresianum\u201c.",
+    "duration": 4.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_20071743.mp3",
+    "text": "Im Zust\u00e4ndigkeitsbereich liegt die Fortentwicklung und \u00dcberwachung der staatlichen Verfassung und die Justizverwaltung.",
+    "duration": 7.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_20071744.mp3",
+    "text": "Es darf geschlagen und getreten werden.",
+    "duration": 3.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_20071745.mp3",
+    "text": "W\u00e4hrend dieser Zeit war er in Br\u00fcssel und lernte dort franz\u00f6sisch.",
+    "duration": 4.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_20071746.mp3",
+    "text": "Zeigen l\u00e4sst sich die Gate-Control-Theorie auch im Alltag.",
+    "duration": 5.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_20071747.mp3",
+    "text": "Die Munition wurde aus einer Trommel entnommen, die an der rechten Seite angebracht war.",
+    "duration": 5.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_20071748.mp3",
+    "text": "Vor allem jedoch richtete sich die gesamte Aufmerksamkeit auf ein Besatzungsmitglied.",
+    "duration": 6.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_20071749.mp3",
+    "text": "Sitz des deutschen Landratsamtes wurde die Kreisstadt Turek.",
+    "duration": 5.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_20071750.mp3",
+    "text": "Die Halbinsel stellt das Bindeglied zwischen Asien und Afrika dar.",
+    "duration": 5.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_20071751.mp3",
+    "text": "Er konnte in dieser Disziplin in der Folge aber keine bedeutenden Ergebnisse erzielen.",
+    "duration": 6.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_20071752.mp3",
+    "text": "In Wittlich entstand sein Fenster mit dem \u201eAuferstandenen Christus\u201c in der Friedhofskapelle Trierer Landstra\u00dfe.",
+    "duration": 8.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_20071753.mp3",
+    "text": "Die Entscheidung, Italienisch zu verwenden, wurde von reformierten Fl\u00fcchtlingen und Predigern aus Italien beeinflusst.",
+    "duration": 8.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_20071754.mp3",
+    "text": "Sie ist rechteckig.",
+    "duration": 2.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_20071755.mp3",
+    "text": "Au\u00dferdem ist eine chronische Gonorrhoe eine h\u00e4ufige Ursache.",
+    "duration": 5.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_20071756.mp3",
+    "text": "Besitz bei Wien, bei Leoben in der Steiermark und in Friaul l\u00e4sst sich erschlie\u00dfen.",
+    "duration": 7.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_20071771.mp3",
+    "text": "Diese Art der Bepflanzung geht auf das Mittelalter zur\u00fcck.",
+    "duration": 4.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_20071774.mp3",
+    "text": "Daraufhin ging er auf Tour durch die Vereinigten Staaten.",
+    "duration": 5.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_20071775.mp3",
+    "text": "Ihr Sitz ist M\u00fcnchen, die Gesch\u00e4ftsstelle befindet sich in Pfaffenhofen an der Ilm.",
+    "duration": 7.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_20071776.mp3",
+    "text": "Ein noch immer bestehender Rekord in Mexiko.",
+    "duration": 3.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_20071787.mp3",
+    "text": "Hier findet mitunter auch eine falsche anwaltliche Beratung statt.",
+    "duration": 4.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_20071788.mp3",
+    "text": "Doch noch wirken exotische Ausl\u00e4nder sehr befremdlich auf die Leute.",
+    "duration": 5.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_20071789.mp3",
+    "text": "Wird diese Temperatur \u00fcberschritten, so wandert das Fett langsam an die Oberfl\u00e4che.",
+    "duration": 7.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_20071790.mp3",
+    "text": "Peter Dewes hatte zwei S\u00f6hne.",
+    "duration": 3.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_20071802.mp3",
+    "text": "Nach dem Ende der Leihe kehrte Annan nach Gelsenkirchen zur\u00fcck.",
+    "duration": 5.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_20071803.mp3",
+    "text": "Zum Foto-Amateur gesellte sich der Tonband-Amateur.",
+    "duration": 5.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_20071804.mp3",
+    "text": "Sie ist damit fl\u00e4chenm\u00e4\u00dfig die gr\u00f6\u00dfte Gemeinde Estlands.",
+    "duration": 5.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_20071805.mp3",
+    "text": "Danach war er im Justizdienst t\u00e4tig.",
+    "duration": 4.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_20071806.mp3",
+    "text": "College der Universit\u00e4t Mumbai und erwarb dort den Bachelor of Science.",
+    "duration": 7.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_20071827.mp3",
+    "text": "M\u00f6rlin suchte anfangs zu Osiander ein freundliches Verh\u00e4ltnis, das jedoch bald zerbrach.",
+    "duration": 6.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_20071828.mp3",
+    "text": "Man verwendete sie als Steinbruch, um an Geld zu kommen.",
+    "duration": 4.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_20071830.mp3",
+    "text": "Die Winterruhe ist bei dieser Art nur kurz.",
+    "duration": 5.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_20071831.mp3",
+    "text": "Er entspricht den nat\u00fcrlichen Lebensbedingungen der in einem solchen Aquarium gepflegten Fischarten.",
+    "duration": 8.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_20075648.mp3",
+    "text": "Es folgten Kurse in Ballett und Modern Dance.",
+    "duration": 4.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_20075649.mp3",
+    "text": "Die Aktion hatte keinen Erfolg und die zugeh\u00f6rige Webseite wurde inzwischen eingestellt.",
+    "duration": 7.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_20075650.mp3",
+    "text": "Betroffene s\u00fcdkoreanische Unternehmen protestierten gegen diesen Schritt.",
+    "duration": 5.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_20075652.mp3",
+    "text": "Daneben gr\u00fcndete er eine eigene Tanzgruppe, das \u201eBallet Deva\u201c.",
+    "duration": 6.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_20075653.mp3",
+    "text": "Der Turm ist nur bis Sonnenuntergang zug\u00e4nglich und wird dann automatisch geschlossen.",
+    "duration": 5.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_20075655.mp3",
+    "text": "Dabei gelang ihm der spielentscheidende Versuch im Auftaktspiel gegen England.",
+    "duration": 6.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_20075656.mp3",
+    "text": "Phasenweise geh\u00f6rte Skibbe zu zwei Jugendnationalmannschaften gleichzeitig.",
+    "duration": 7.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_20075657.mp3",
+    "text": "Daher gibt es nur wenige menschliche Siedlungen.",
+    "duration": 4.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_20075665.mp3",
+    "text": "Das Unternehmen betreibt die Bahn \u00fcber einen limitierten Zeitraum.",
+    "duration": 5.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_20075666.mp3",
+    "text": "Bezirk die Ortsteile Mariendorf, Marienfelde, Lichtenrade und den namensgebenden Ortsteil Tempelhof umfasste.",
+    "duration": 10.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_20075668.mp3",
+    "text": "Nach einem H\u00f6henverlust konnte nicht mehr genug Leistung zur sicheren Landung erlangt werden.",
+    "duration": 6.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_20075675.mp3",
+    "text": "Schultr\u00e4ger ist die Stadt Oldenburg.",
+    "duration": 3.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_20075676.mp3",
+    "text": "Die Stadt Bergen, die Konrad-Adenauer-Stiftung und der Anne-Frank-Fonds organisieren und finanzieren die Veranstaltung.",
+    "duration": 8.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_20075677.mp3",
+    "text": "Der Film basiert auf der Autobiografie von Andreas Marquardt.",
+    "duration": 5.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_20075678.mp3",
+    "text": "Nicht zu verwechseln ist der Visual Jockey mit dem Video Jockey.",
+    "duration": 5.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_20075679.mp3",
+    "text": "Eine Erh\u00f6hung der Schwierigkeit stellt ein Kurssystem dar.",
+    "duration": 3.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_21746972.mp3",
+    "text": "Darum bitte ich in diesem Bericht.",
+    "duration": 3.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_21746973.mp3",
+    "text": "Meine Fraktion sieht hier die Verwirklichung des Orwell'schen \u00dcberwachungsstaates in Gro\u00dfbritannien.",
+    "duration": 6.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_21746974.mp3",
+    "text": "Ich glaube, dass dieser Verweis von enormer Bedeutung ist.",
+    "duration": 4.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_21746975.mp3",
+    "text": "Wir haben ein Europ\u00e4isches Besch\u00e4ftigungsprogramm, gest\u00fctzt auf vier Pfeiler.",
+    "duration": 5.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_21746976.mp3",
+    "text": "Mindestens zwei Drittel derjenigen, die Sie erw\u00e4hnt haben, haben nicht an der Abstimmung teilgenommen.",
+    "duration": 6.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_21746982.mp3",
+    "text": "Uns liegen drei wichtige und gute Berichte vor.",
+    "duration": 3.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_21746983.mp3",
+    "text": "Nat\u00fcrlich diskutieren wir jetzt die Kraftstoffpreise.",
+    "duration": 4.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_21746984.mp3",
+    "text": "Herr Heaton-Harris, wir werden Ihre Bemerkung weiterleiten.",
+    "duration": 4.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_21746985.mp3",
+    "text": "Ich kann also in einer beliebigen Rolle sprechen.",
+    "duration": 3.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_21746986.mp3",
+    "text": "In jedem Fall ist es notwendig, dass diese Vorschl\u00e4ge jetzt global umgesetzt werden.",
+    "duration": 6.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_21746987.mp3",
+    "text": "Als Beispiel nenne ich den Freitag der letzten Sitzungsperiode.",
+    "duration": 4.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_21746988.mp3",
+    "text": "Ferner wird eine verst\u00e4rkte Europol-Zusammenarbeit vorgeschlagen.",
+    "duration": 4.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_21746989.mp3",
+    "text": "Von der Erkrankung sind auch die nahen Angeh\u00f6rigen betroffen.",
+    "duration": 4.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_21746990.mp3",
+    "text": "Lebenslanges Lernen ist die Grundlage f\u00fcr die Mobilit\u00e4t der Arbeitskr\u00e4fte.",
+    "duration": 5.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_21746991.mp3",
+    "text": "Herr Labouani ist in Syrien eine Symbolfigur.",
+    "duration": 4.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26586347.mp3",
+    "text": "Im Rabi\u02bf al-auwal gelten f\u00fcr manche der zehnte und zwanzigste Tag als negativ.",
+    "duration": 7.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26586348.mp3",
+    "text": "Frau Andreasen wurde im Verlaufe der Ereignisse definitiv nicht schikaniert.",
+    "duration": 6.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26586349.mp3",
+    "text": "Es ist vor dem Prime Tower in Z\u00fcrich das h\u00f6chste Geb\u00e4ude der Schweiz.",
+    "duration": 5.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26586350.mp3",
+    "text": "Eine wichtige Zukunftsaufgabe bleibt die Erweiterung der Europ\u00e4ischen Union nach Osten und nach S\u00fcden.",
+    "duration": 7.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26586351.mp3",
+    "text": "Bei der Gerechtigkeit kann es um Vergeltung gehen, aber sie kann auch Frieden bringen.",
+    "duration": 5.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26586352.mp3",
+    "text": "Der Franzose bestritt die ersten drei Weltmeisterschaftsl\u00e4ufe f\u00fcr das britische Team.",
+    "duration": 6.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26586353.mp3",
+    "text": "Nach drei Wochen verpuppen sich die Larven.",
+    "duration": 3.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26586354.mp3",
+    "text": "Danach wechselte Ossenberg erneut zweimal kurz hintereinander den Besitzer.",
+    "duration": 6.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26586355.mp3",
+    "text": "Im heutigen Namibia wird Samuel Maharero als Held verehrt.",
+    "duration": 5.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26586361.mp3",
+    "text": "Der nationale Wetterdienst unterh\u00e4lt hier seine Zentrale f\u00fcr das s\u00fcdwestliche Virginia.",
+    "duration": 6.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26586363.mp3",
+    "text": "Die Verhaltensmuster \u00e4ndern sich, die Ambitionen der Frauen nehmen st\u00e4ndig zu.",
+    "duration": 5.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26586364.mp3",
+    "text": "Dieses ist Teil des Fatra-Tatra-Gebietes der Inneren Westkarpaten.",
+    "duration": 6.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26586365.mp3",
+    "text": "Er etablierte sich durch seine Ver\u00f6ffentlichungen als ein f\u00fchrender Verfassungsrechtler der Bundesrepublik.",
+    "duration": 7.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26586366.mp3",
+    "text": "Die Unabh\u00e4ngigkeit ihres Landes hat sie einen \u201eMythos\u201c genannt.",
+    "duration": 5.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26586367.mp3",
+    "text": "Es befindet sich im Alten Rathaus.",
+    "duration": 3.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26586368.mp3",
+    "text": "Sp\u00e4ter erschien sie nur noch ungef\u00e4hr viertelj\u00e4hrlich, aber umfangreicher und vierfarbig.",
+    "duration": 6.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26586369.mp3",
+    "text": "Ich mache Ihnen einige Vorschl\u00e4ge, die bisher meistens nicht ber\u00fccksichtigt worden sind.",
+    "duration": 6.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26586370.mp3",
+    "text": "Weilersbach wurde im Drei\u00dfigj\u00e4hrigen Krieg stark heimgesucht.",
+    "duration": 4.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26586371.mp3",
+    "text": "Schon die bisherigen Rentenreformen f\u00fchren zu wachsender Altersarmut.",
+    "duration": 5.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26586372.mp3",
+    "text": "Tierversuche lassen wegen der wesentlich l\u00e4ngeren Verweildauer im menschlichen Organismus keine eindeutigen R\u00fcckschl\u00fcsse zu.",
+    "duration": 8.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26586373.mp3",
+    "text": "Hoffentlich kann der schwedische Vorsitz die Angelegenheit bis Ende des Monats zum Abschluss bringen.",
+    "duration": 6.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26586374.mp3",
+    "text": "Darum brauchen wir jetzt diesen qualitativen Fortschritt hin zu einem Europ\u00e4ischen Patent.",
+    "duration": 6.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26586381.mp3",
+    "text": "Diese drei Bereiche bilden ein Ganzes und sollten sich im Gleichgewicht befinden\u00bb.",
+    "duration": 6.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26586382.mp3",
+    "text": "Die Jakobskirche ist unterschiedlichen Baustilen zuzuordnen.",
+    "duration": 5.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26586383.mp3",
+    "text": "Ich warte immer noch auf die Antwort.",
+    "duration": 3.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26586384.mp3",
+    "text": "Erstens wird das Ziel der kontinuierlichen Senkung der Beihilfen insgesamt begr\u00fc\u00dft.",
+    "duration": 6.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26586385.mp3",
+    "text": "Der Asteroid wurde nach dem finnischen Nationaldichter Aleksis Kivi benannt.",
+    "duration": 7.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26586386.mp3",
+    "text": "Die Bucht ist bei Ebbe nicht mit dem Meer verbunden.",
+    "duration": 4.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26586387.mp3",
+    "text": "Veronika Fischer formierte eine neue Band um Thomas Natschinski.",
+    "duration": 6.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26586389.mp3",
+    "text": "Jede Schale ist mit einer Plage f\u00fcr die Menschen verbunden.",
+    "duration": 5.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26586390.mp3",
+    "text": "St\u00f6ger-Steiner holte den sp\u00e4teren Sch\u00f6pfer der republikanischen Verfassung, Hans Kelsen, als Rechtsberater ins Kriegsministerium.",
+    "duration": 10.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26586393.mp3",
+    "text": "Diese Aufz\u00e4hlung ist nur beispielhaft.",
+    "duration": 3.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26586394.mp3",
+    "text": "Auch dieser Vorschlag kann weiterentwickelt werden.",
+    "duration": 4.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26586396.mp3",
+    "text": "Die Landwirtschaft, insbesondere der Olivenanbau und auch der Weinbau spielen noch eine gro\u00dfe Rolle.",
+    "duration": 7.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26586397.mp3",
+    "text": "Es gibt keine anwendbare Therapie.",
+    "duration": 3.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26586399.mp3",
+    "text": "Er wurde in Schwarzwei\u00df gedreht.",
+    "duration": 3.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26586400.mp3",
+    "text": "Herzlichen Dank noch einmal f\u00fcr diese gute Arbeit an einem hoffentlich guten europ\u00e4ischen Rechtsakt.",
+    "duration": 7.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26586401.mp3",
+    "text": "Trag- und S\u00e4ugezeit sind f\u00fcr W\u00fchlm\u00e4use relativ lang.",
+    "duration": 5.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26586402.mp3",
+    "text": "Steckbriefe sollen die verfolgten Personen und Sachverhalte genau beschreiben und die verfolgte Tat angeben.",
+    "duration": 7.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26586403.mp3",
+    "text": "Jedoch darf dies nicht zu Lasten anderer, gleicherma\u00dfen wichtiger Aufgaben gehen.",
+    "duration": 7.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26586407.mp3",
+    "text": "Die Produktion erfolgt gem\u00e4\u00df dem Deutschen Reinheitsgebot.",
+    "duration": 4.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26586409.mp3",
+    "text": "Sein Grab befindet sich auf dem Trinitatisfriedhof in Dresden.",
+    "duration": 5.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26586410.mp3",
+    "text": "Bei gr\u00f6\u00dferen Blutungen hat dies umgehend durch einen Druckverband oder ein Abbinden zu erfolgen.",
+    "duration": 7.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26586411.mp3",
+    "text": "Ich rufe das Hohe Haus deshalb auf, nicht f\u00fcr diesen Vorschlag zu stimmen.",
+    "duration": 6.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26586416.mp3",
+    "text": "Bereits sein Geburtsdatum ist umstritten.",
+    "duration": 3.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26586417.mp3",
+    "text": "Seit einigen Jahren ist er auch als Theaterregisseur und -autor t\u00e4tig.",
+    "duration": 6.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26586418.mp3",
+    "text": "Die Architektur der Kirche ist durch strikte Geometrie und klare Formen gepr\u00e4gt.",
+    "duration": 5.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26586419.mp3",
+    "text": "Im Jahr seiner Pensionierung wurde Heinrich Pr\u00f6hle der Professorentitel verliehen.",
+    "duration": 6.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26586421.mp3",
+    "text": "Jacob Stolterfoht war dreimal verheiratet.",
+    "duration": 4.4
+  }
+]

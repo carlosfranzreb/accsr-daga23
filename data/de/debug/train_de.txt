@@ -1,0 +1,10 @@
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17786693.mp3", "text": "sie hat eine einf\u00fchlsame art", "duration": 2.9}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18349615.mp3", "text": "m\u00f6chten sie ihre eingangsanschl\u00fcsse jetzt pr\u00fcfen", "duration": 3.5}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_24828961.mp3", "text": "wir sind davon \u00fcberzeugt dass die erweiterung erfolgreich vollendet werden muss", "duration": 7.1}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_22468777.mp3", "text": "nach anderer einsch\u00e4tzung k\u00f6nnten es auch die dioskuren castor und pollux sein", "duration": 6.7}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17370469.mp3", "text": "es ist wahnsinnig schwierig sich nicht nach irgendeinem muster zu verhalten", "duration": 4.1}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_24730191.mp3", "text": "einer legende nach solle es einen \u00fcberlebenden namens amin bey alarnauti gegeben haben", "duration": 9.6}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18088015.mp3", "text": "nach langer suche hat lutz endlich einen investor f\u00fcr sein startup gefunden", "duration": 5.3}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_22393091.mp3", "text": "ach der fr\u00fchling ist wundervoll", "duration": 3.5}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26223864.mp3", "text": "zwei der lieder auf dem album wurden von bisbal mitgeschrieben", "duration": 5.4}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_28296181.mp3", "text": "dieses album z\u00e4hlt heute zu den klassikern im rockbereich", "duration": 5.1}

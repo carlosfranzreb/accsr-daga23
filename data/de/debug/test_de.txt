@@ -1,0 +1,10 @@
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_21370968.mp3", "text": "nun m\u00fcssen meines erachtens konkrete und erkennbare ma\u00dfnahmen ergriffen werden", "duration": 8.1}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17687144.mp3", "text": "hierf\u00fcr gibt es kein patentrezept", "duration": 3.0}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18108616.mp3", "text": "es sind kaum gebrauchsspuren zu erkennen", "duration": 2.6}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18204446.mp3", "text": "bei der hitze schwitzt man so stark dass einem die sonnencreme ins auge l\u00e4uft", "duration": 5.5}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_20549710.mp3", "text": "vier jahrzehnte lang organisierte er ein reiches musikalisches leben am hof der f\u00fcrstenberger", "duration": 8.1}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18111845.mp3", "text": "das verfahren wird anschaulich wenn man die aufgabe als geometrisches problem auffasst", "duration": 5.6}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_24079915.mp3", "text": "diese unterschiede in aussprache und grammatik haben sich vermutlich meist w\u00e4hrend des mittelalters herausgebildet", "duration": 8.6}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_21724931.mp3", "text": "meiner ansicht nach sollte sich die n\u00e4chste franz\u00f6sische regierung darum sorgen machen", "duration": 7.2}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18498987.mp3", "text": "licht an", "duration": 2.2}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18517742.mp3", "text": "gibst du mir bitte mal die schablone", "duration": 2.9}

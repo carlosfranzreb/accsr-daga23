@@ -1,0 +1,15 @@
+data:
+  folder: data/train_split_hpc
+  seen_accents:
+  - de
+  - at
+  - ch
+  unseen_accents:
+  - fr
+  - it
+  - ru
+  - us
+  - gb
+  - ca
+  - de_al
+  - de_ni

@@ -1,0 +1,77 @@
+name: Conformer-Transducer-BPE for AccSR
+ensemble:
+  branch: 1
+  weight: 0.1
+  mode: DAT
+  action: train_asr
+asr:
+  classname: EncDecRNNTBPEModel
+  pretrained: stt_de_conformer_transducer_large
+  ckpt: logs/asr/train/version_8/checkpoints/last.ckpt
+ac:
+  classname: AC
+  ckpt: null
+  n_accents: 2
+  dropout: 0.5
+  binary: true
+trainer:
+  max_epochs: 20
+  accumulate_grad_batches: 4
+  limit_train_batches: 1.0
+  limit_val_batches: 1.0
+  devices: 8
+  nodes: 2
+data:
+  folder: data/train_split_hpc
+  seen_accents:
+  - all
+  unseen_accents:
+  - fr
+  - it
+  - ru
+  - us
+  - gb
+  - ca
+  - de_al
+  - de_ni
+  config:
+    sample_rate: 16000
+    batch_size: 8
+    num_workers: 10
+    pin_memory: true
+    use_start_end_token: false
+    trim_silence: false
+    max_duration: 18.9
+    min_duration: 0.1
+    is_tarred: false
+    tarred_audio_filepaths: null
+    shuffle_n: 2048
+    bucketing_strategy: synced_randomized
+    bucketing_batch_size: null
+    return_sample_id: false
+    drop_last: false
+    shuffle: false
+    manifest_filepath: data/train_split_hpc/pretrain_all.txt
+  config_pretrain:
+    shuffle: false
+  config_train:
+    shuffle: true
+  config_test:
+    shuffle: false
+  spec_augment:
+    _target_: nemo.collections.asr.modules.SpectrogramAugmentation
+    freq_masks: 2
+    time_masks: 10
+    freq_width: 27
+    time_width: 0.05
+optim:
+  name: adamw
+  lr: 1.0e-05
+  betas:
+  - 0.9
+  - 0.98
+  weight_decay: 0.001
+checkpointing:
+  monitor: val_wer - unweighted avg.
+  mode: min
+commit_hash: b15e325

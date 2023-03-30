@@ -1,0 +1,10 @@
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17874385.mp3", "text": "la paz ist der regierungssitz von bolivien", "duration": 3.3}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_24132054.mp3", "text": "herr blak hat sich gemeldet", "duration": 2.5}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18230560.mp3", "text": "neben der b\u00fcrgermeisterin war auch der k\u00fcnstler anwesend", "duration": 4.0}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_19617240.mp3", "text": "der bahnhof war f\u00fcr die bedienung der beiden ortschaften gedacht", "duration": 5.6}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_24003774.mp3", "text": "insbesondere setzte sie sich f\u00fcr die verbesserung der sozialen rechtsverh\u00e4ltnisse von arbeiterinnen ein", "duration": 6.9}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17874364.mp3", "text": "wessen bierkrug ist das", "duration": 2.1}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_30350761.mp3", "text": "wir m\u00fcssen unsere hilfe breiter f\u00e4chern", "duration": 3.7}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_20024923.mp3", "text": "im gegenteil misslingt der zielgerichtete bewusste versuch nationale symbole zu schaffen h\u00e4ufig", "duration": 6.1}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18226680.mp3", "text": "jetzt sind wir an dem punkt angelangt wo es sich nicht mehr rentiert", "duration": 6.0}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26179959.mp3", "text": "schlie\u00dflich wurde die notw\u00e4hrung die gem\u00e4\u00df dem \u201ealdrichvreelandgesetz\u201c ausgegeben worden war vollst\u00e4ndig wieder eingezogen", "duration": 10.1}

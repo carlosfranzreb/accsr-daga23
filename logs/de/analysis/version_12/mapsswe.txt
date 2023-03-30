@@ -1,0 +1,13 @@
+Test set P-value
+test_de_ni.txt 0.1931
+test_ch.txt 0.7123
+test_de_al.txt 0.8273
+test_it.txt 0.7974
+test_fr.txt 0.8414
+test_de.txt 1.0000
+test_ru.txt 0.0604
+test_us.txt 0.1762
+test_gb.txt 0.9115
+test_at.txt 0.9949
+test_ca.txt 0.0153
+all	1.0000

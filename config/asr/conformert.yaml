@@ -1,0 +1,4 @@
+asr:
+  classname: EncDecRNNTBPEModel
+  pretrained: stt_de_conformer_transducer_large
+  ckpt: null # if null, the pre-trained model is used.

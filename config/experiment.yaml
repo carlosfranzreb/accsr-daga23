@@ -1,0 +1,30 @@
+job: experiment # can be experiment or analysis (relevant for picking the experiment folder)
+
+language: de # can be de or en; used to pick the logging folder
+
+data_file: config/data/default.yaml
+trainer_file: config/trainer/default.yaml
+
+# ENSEMBLE MODEL (ASR + AC)
+ensemble:
+  branch: 7 # number of encoder blocks that are shared among the ASR model and the accent classifier (between 1 and 17 for the conformert).
+  ac_weight: 1 # weight of the accent classifier.
+  asr_weight: 1 # weight of the ASR model.
+  mode: SwitchDAT # can be either DAT or MTL. If DAT, a gradient reversal layer is pre-pended to the classifier.
+  action: train # what should be trained. You can find the options in the README
+
+# ASR MODEL
+asr:
+  classname: EncDecRNNTBPEModel
+  pretrained: stt_de_conformer_transducer_large
+  ckpt: null # if null, the pre-trained model is used.
+
+# ACCENT CLASSIFIER
+ac:
+  classname: AC # can be any classifier that receives as input the output of a large conformer block
+  ckpt: null # file to initialize the classifier. If null, the classifier is initialized randomly.
+  n_accents: 2 # no. of accents in the training set. Must equal the number of training files.
+  dropout: null # dropout probability for all layers
+  binary: true # whether the classifier is binary or not
+  mode: DAT # required if ensemble.mode=SwitchDAT; this mode is used for the individual classifiers. Can be DAT or MTL.
+  optim: ${optim} # required by SwitchDAT to train the ACs

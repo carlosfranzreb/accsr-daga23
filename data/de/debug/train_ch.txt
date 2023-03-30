@@ -1,0 +1,10 @@
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_20903325.mp3", "text": "von dieser tour wurde im nachgang ein livealbum ver\u00f6ffentlicht", "duration": 4.2}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_32235562.mp3", "text": "als kameramann fungierte david correo franco", "duration": 5.8}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_32220582.mp3", "text": "sie arbeiteten einige jahre in slatoust", "duration": 4.6}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_20929040.mp3", "text": "von der folgenden biologischen krise waren die ozeanischen und festl\u00e4ndischen biotope gleicherma\u00dfen betroffen", "duration": 9.6}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_20440817.mp3", "text": "es liegt in einem weitl\u00e4ufigen park", "duration": 4.2}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18941645.mp3", "text": "nimmt der mond gerade zu oder ab", "duration": 4.9}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17815989.mp3", "text": "im fall eines schadens an der wohnung wird der vermieter die kaution einbehalten", "duration": 6.7}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17817557.mp3", "text": "port moresby ist die hauptstadt von papuaneuguinea", "duration": 5.1}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_21871257.mp3", "text": "nun habe ich ihre nummer", "duration": 3.0}
+{"audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_28894964.mp3", "text": "besonders in exemplaren von feuchtwiesenpuppenschnecke aus skandinavien fehlen die z\u00e4hne oft komplett", "duration": 6.3}

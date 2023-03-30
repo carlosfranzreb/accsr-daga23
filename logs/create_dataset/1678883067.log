@@ -1,0 +1,30 @@
+INFO:root:Pre-train accent: us (300 h)
+INFO:root:Seen accents: ['uk', 'ca', 'in', 'de'] with train/test ratio 0.8/0.19999999999999996
+INFO:root:Unseen accents: ['hk', 'sg', 'au', 'sc', 'nz', 'ie', 'za', 'ni', 'ph']
+INFO:root:Dumping data from CV10 for these accents to folder data/en/train_split.
+INFO:root:Shuffling? True
+INFO:root:Splitting data of accent us into train and test sets
+INFO:root:Train set comprises 129682 samples
+INFO:root:Test set comprises 32420 samples
+INFO:root:Splitting data of accent uk into train and test sets
+INFO:root:Train set comprises 107301 samples
+INFO:root:Test set comprises 26825 samples
+INFO:root:Splitting data of accent ca into train and test sets
+INFO:root:Train set comprises 47474 samples
+INFO:root:Test set comprises 11868 samples
+INFO:root:Splitting data of accent in into train and test sets
+INFO:root:Train set comprises 79690 samples
+INFO:root:Test set comprises 19923 samples
+INFO:root:Splitting data of accent de into train and test sets
+INFO:root:Train set comprises 32718 samples
+INFO:root:Test set comprises 8179 samples
+INFO:root:Creating test files for unseen accents: ['hk', 'sg', 'au', 'sc', 'nz', 'ie', 'za', 'ni', 'ph']
+INFO:root:Test set of lang hk comprises 4260 samples
+INFO:root:Test set of lang sg comprises 3365 samples
+INFO:root:Test set of lang au comprises 51108 samples
+INFO:root:Test set of lang sc comprises 15474 samples
+INFO:root:Test set of lang nz comprises 11877 samples
+INFO:root:Test set of lang ie comprises 9461 samples
+INFO:root:Test set of lang za comprises 8374 samples
+INFO:root:Test set of lang ni comprises 5968 samples
+INFO:root:Test set of lang ph comprises 5105 samples

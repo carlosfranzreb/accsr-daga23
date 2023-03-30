@@ -1,0 +1,23 @@
+INFO:root:Pre-train accent: de (350 h)
+INFO:root:Seen accents: ['at', 'ch'] with train/test ratio 0.8/0.19999999999999996
+INFO:root:Unseen accents: ['ru', 'fr', 'it', 'us', 'gb', 'ca', 'de_al', 'de_ni']
+INFO:root:Dumping data from CV10 for these accents to folder data/train_split.
+INFO:root:Shuffling? True
+INFO:root:Splitting data of accent de into train and test sets
+INFO:root:Train set comprises 146094 samples
+INFO:root:Test set comprises 36524 samples
+INFO:root:Splitting data of accent at into train and test sets
+INFO:root:Train set comprises 17986 samples
+INFO:root:Test set comprises 4496 samples
+INFO:root:Splitting data of accent ch into train and test sets
+INFO:root:Train set comprises 11646 samples
+INFO:root:Test set comprises 2912 samples
+INFO:root:Creating test files for langs ['ru', 'fr', 'it', 'us', 'gb', 'ca', 'de_al', 'de_ni']
+INFO:root:Test set of lang ru comprises 975 samples
+INFO:root:Test set of lang fr comprises 1418 samples
+INFO:root:Test set of lang it comprises 978 samples
+INFO:root:Test set of lang us comprises 294 samples
+INFO:root:Test set of lang gb comprises 148 samples
+INFO:root:Test set of lang ca comprises 123 samples
+INFO:root:Test set of lang de_al comprises 725 samples
+INFO:root:Test set of lang de_ni comprises 671 samples

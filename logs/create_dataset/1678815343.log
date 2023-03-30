@@ -1,0 +1,73 @@
+INFO:root:CV contains 1588660 validated samples
+INFO:root:1588660 samples left after removing those without text
+INFO:root:Accents found: [nan, 'England English,United States English', 'Hong Kong English', 'United States English,American Midwest', 'England English', 'United States English', 'United States English,wolof', 'Australian English', 'Southern African (South Africa, Zimbabwe, Namibia)', 'India and South Asia (India, Pakistan, Sri Lanka)', 'United States English,midwestern US', 'Australian English,England English,Japanese', 'Canadian English', 'Scottish English', 'Filipino', "A'lo", 'Swedish English', 'England English,Southern England', 'United States English,i have some pronunciation issues because of oral surgery and a hidden southern accent', 'Finnish', 'United States English,Spoke Chinese when little,90% Pennsylvanian accent, 10% Chinese accent', 'Singaporean English', 'West Indies and Bermuda (Bahamas, Bermuda, Jamaica, Trinidad)', 'Spanish bilingual', 'Irish English', 'United States English,England English', 'United States English,Silicon Valley Native', 'Not bad', 'United States English,Canadian English,Indo-Canadian English', 'United States English,Northern,Urban', 'Malaysian English', 'New Zealand English', 'Australian English,Educated Australian Accent', 'Eastern European,Romanian', 'United States English,India and South Asia (India, Pakistan, Sri Lanka)', 'English north of England ', 'India and South Asia (India, Pakistan, Sri Lanka),United States English', 'northern cali', 'Mild Northern England English', 'Выраженный украинский акцент', 'slighty Southern affected by decades in the Midwest, 4 years in Spain and Germany, speak some German, Spanish, Polish. Have lived in nine states.', 'Catalan', 'United States English,southern United States', 'European English,French,Romanian', 'United States English,pin/pen merger', 'Latin American accent', 'England English,Hong Kong English', 'India and South Asia (India, Pakistan, Sri Lanka),Basic', 'East London ', 'Russian,East Ukrainian ', 'United States English,Variable', 'United States English,United States English. people say I sound like a surffer dude.', 'Colombian Accent', 'West Indian', 'New Zealand English,United States English', 'United States English,England English,Hong Kong English', 'Welsh English', 'Northern Irish', 'Scottish English,Scottish', 'United States English combined with European English', 'Swedish accent', 'Japanese English', 'United States English,Canadian English,slight Brooklyn Accent', 'Afrikaans English', 'Slavic', 'East Indian', 'England English,Lancashire, England ', "Israeli's accent ", 'England English,London English', 'German English', 'United States English,Chicago ', 'India and South Asia (India, Pakistan, Sri Lanka),Canadian English', 'England English,yorkshire', 'India and South Asia (India, Pakistan, Sri Lanka),England English', 'German', 'United States English,Okie', 'United States English,England English,India and South Asia (India, Pakistan, Sri Lanka)', 'West Indies and Bermuda (Bahamas, Bermuda, Jamaica, Trinidad),Patois', 'Latin English', 'Hong Kong English,Scottish English', 'South Atlantic (Falkland Islands, Saint Helena)', 'United States English,Southern Appalachian English,Southern United States English', 'Canadian English,United States English,England English', 'United States English,Midwestern', "England English,Porto des dels 3 anys aprenent anglès a l'escola i actualment m'estic preparant per a l'examen del B2.", 'Southern Texas Accent,United States English', 'Russian', "European,eastern europe,pronounced r's,heavy consonants ", 'Norwegian', 'India and South Asia (India, Pakistan, Sri Lanka),Indian with a tinge of an RP accent', 'Australian English,Sydney - middle eastern seaboard Australian', 'United States English,Kenyan English', 'Bangladeshi,Bangladesh English', 'Slavic,Russian', 'Eastern European English', 'United States English,little bit classy little bit sassy and add some city.....thats me', 'United States English,Australian English,England English,New Zealand English,India and South Asia (India, Pakistan, Sri Lanka),international,Slovak', 'Slavic,polish', 'United States English,Midwestern United States English', 'polish accent', 'United States English,Slight lisp', 'United States English,Australian English', 'German Accent', 'Slavic,East European,polish', 'French', 'England English,Scottish English', 'United States English,Canadian English', 'India and South Asia (India, Pakistan, Sri Lanka),International Indian Accent', 'United States English,new england/east coast', 'United States English,Chicano English,"Valley Girl" English', 'england,london,academic', 'United States English,Hmong-American', 'Malaysian English,Singaporean English', 'Singaporean English,England English', 'Northern Irish,Norwegian,yorkshire', 'A variety of Texan English with some German influence that has undergone the cot-caught merger', 'With heavy Cantonese accent', 'polish', 'Filipino,United States English', 'fluent,ESL,European', 'United States English,Mid-west United States English', 'Australian English,England English', 'United States English,Israeli accent', 'Thai', 'United States English,Cool', 'United States English,midwest', 'England English,south German / Swiss accent', 'Canadian English,Irish English', 'United States English,CARIBBEAN AND BRITISH MIXED WITH SOME NEW YORK ACCENTS', 'serbian,United States English', 'Mid-Atlantic United States English,Philadelphia, Pennsylvania, United States English,United States English,Philadelphia Style United States English', 'England English,British', 'Nigerian English', 'West Indies and Bermuda (Bahamas, Bermuda, Jamaica, Trinidad),England English,Scottish English,United States English', 'India and South Asia (India, Pakistan, Sri Lanka),bangladesh', '2nd Language ', 'Malaysian English,England English', 'India and South Asia (India, Pakistan, Sri Lanka),try to maintain originality ', 'Italian', 'Mid-atlantic,England English,United States English', 'minor french accent', 'Dutch English', 'East African Khoja', 'Upper Midwestern,United States English', 'England English,New Zealand English,Welsh English,Australian English,United States English,Mixed-Accent English', 'United States English,South Texas,Slightly effeminate,Conversational', 'Midatlantic,England English', 'United States English,Californian Accent', 'Ukrainian', 'United States English,Midwestern States (Michigan)', 'Malaysian English,Javanese,Indonesian English', 'United States English,Some time spent in Scotland, mostly affecting inflection, I think', 'Austrian', 'Midwestern US English (United States),United States English', 'United States English,Southwestern United States English', 'Bangladeshi English', 'England English,India and South Asia (India, Pakistan, Sri Lanka),Northern English', 'Spanish,Foreign,Non-native', 'England English,Northern English', 'United States English,Pacific Northwest ', 'England English,southern english,sussex', 'United States English,Midwestern,Low,Demure', 'German,south-west German,South German accent,Alemannic German Accent', 'European,German,Foreign,Non-native', 'England English,Canadian English', 'United States English,Southern Californian', 'Dutch', 'New Zealand English,England English', 'England English,South London', 'United States English,southern United States,New Orleans dialect', 'Northumbrian British English', 'England English,Northern England', 'United States English,Midwestern,Minnesotan', 'southern United States,United States English', 'England English,New Zealand English', 'German English,Non native speaker']
+INFO:root:Found 382626 samples for accent United States English
+INFO:root:Done adding directory to filepaths
+INFO:root:Done calculating durations
+INFO:root:Done processing the texts
+INFO:root:Dumping 382626 samples for accent United States English
+INFO:root:Found 134126 samples for accent England English
+INFO:root:Done adding directory to filepaths
+INFO:root:Done calculating durations
+INFO:root:Done processing the texts
+INFO:root:Dumping 134126 samples for accent England English
+INFO:root:Found 99613 samples for accent India and South Asia (India, Pakistan, Sri Lanka)
+INFO:root:Done adding directory to filepaths
+INFO:root:Done calculating durations
+INFO:root:Done processing the texts
+INFO:root:Dumping 99613 samples for accent India and South Asia (India, Pakistan, Sri Lanka)
+INFO:root:Found 59342 samples for accent Canadian English
+INFO:root:Done adding directory to filepaths
+INFO:root:Done calculating durations
+INFO:root:Done processing the texts
+INFO:root:Dumping 59342 samples for accent Canadian English
+INFO:root:Found 51108 samples for accent Australian English
+INFO:root:Done adding directory to filepaths
+INFO:root:Done calculating durations
+INFO:root:Done processing the texts
+INFO:root:Dumping 51108 samples for accent Australian English
+INFO:root:Found 40897 samples for accent German English,Non native speaker
+INFO:root:Done adding directory to filepaths
+INFO:root:Done calculating durations
+INFO:root:Done processing the texts
+INFO:root:Dumping 40897 samples for accent German English,Non native speaker
+INFO:root:Found 15474 samples for accent Scottish English
+INFO:root:Done adding directory to filepaths
+INFO:root:Done calculating durations
+INFO:root:Done processing the texts
+INFO:root:Dumping 15474 samples for accent Scottish English
+INFO:root:Found 11877 samples for accent New Zealand English
+INFO:root:Done adding directory to filepaths
+INFO:root:Done calculating durations
+INFO:root:Done processing the texts
+INFO:root:Dumping 11877 samples for accent New Zealand English
+INFO:root:Found 9461 samples for accent Irish English
+INFO:root:Done adding directory to filepaths
+INFO:root:Done calculating durations
+INFO:root:Done processing the texts
+INFO:root:Dumping 9461 samples for accent Irish English
+INFO:root:Found 8374 samples for accent Southern African (South Africa, Zimbabwe, Namibia)
+INFO:root:Done adding directory to filepaths
+INFO:root:Done calculating durations
+INFO:root:Done processing the texts
+INFO:root:Dumping 8374 samples for accent Southern African (South Africa, Zimbabwe, Namibia)
+INFO:root:Found 5968 samples for accent Northern Irish
+INFO:root:Done adding directory to filepaths
+INFO:root:Done calculating durations
+INFO:root:Done processing the texts
+INFO:root:Dumping 5968 samples for accent Northern Irish
+INFO:root:Found 5105 samples for accent Filipino
+INFO:root:Done adding directory to filepaths
+INFO:root:Done calculating durations
+INFO:root:Done processing the texts
+INFO:root:Dumping 5105 samples for accent Filipino
+INFO:root:Found 4260 samples for accent Hong Kong English
+INFO:root:Done adding directory to filepaths
+INFO:root:Done calculating durations
+INFO:root:Done processing the texts
+INFO:root:Dumping 4260 samples for accent Hong Kong English
+INFO:root:Found 3365 samples for accent Singaporean English
+INFO:root:Done adding directory to filepaths
+INFO:root:Done calculating durations
+INFO:root:Done processing the texts
+INFO:root:Dumping 3365 samples for accent Singaporean English

@@ -1,0 +1,4877 @@
+[
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18520278.mp3",
+    "text": "Was solls, ich bin bereit.",
+    "duration": 4.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26888041.mp3",
+    "text": "Wenn nicht, dann legt man sie irgendwo hin, wo Platz ist.",
+    "duration": 4.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_27399033.mp3",
+    "text": "Die Stadt ist ein Wechsel aus historischen Geb\u00e4uden und moderne Architektur.",
+    "duration": 5.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_27399034.mp3",
+    "text": "Diesen Schlussfolgerungen fehlen jedoch die speziellen Handlungsoptionen.",
+    "duration": 5.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_27399035.mp3",
+    "text": "Urspr\u00fcnglich geh\u00f6rte das Anwesen samt Herrenhaus der Familie Gregory.",
+    "duration": 6.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_27399036.mp3",
+    "text": "Alle diese Inseln sind Teil des Alaska Maritime National Wildlife Refuge.",
+    "duration": 6.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_23579085.mp3",
+    "text": "Sicherlich k\u00f6nnen diese Worte Verwunderung ausl\u00f6sen, wenn sie von dem H\u00fcter des Pakts stammen.",
+    "duration": 6.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_23579086.mp3",
+    "text": "Wir halten diesen Schritt f\u00fcr entscheidend.",
+    "duration": 3.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_23579087.mp3",
+    "text": "Das ist ebenfalls ein positives Signal.",
+    "duration": 4.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_23579088.mp3",
+    "text": "Eichel-Malz eignet sich zur Bierherstellung.",
+    "duration": 5.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_23579090.mp3",
+    "text": "Heute sind sie aufgrund dieses Vorteils die am Markt vorherrschende Form der Anleihe.",
+    "duration": 7.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18432079.mp3",
+    "text": "Ach ja, worum ging es noch mal?",
+    "duration": 3.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18432080.mp3",
+    "text": "Besser arm dran als Arm ab.",
+    "duration": 4.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18432081.mp3",
+    "text": "Kann es sein, dass du ein bisschen heiser bist?",
+    "duration": 5.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18432082.mp3",
+    "text": "Sie kann nicht mehr klar denken.",
+    "duration": 3.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18432381.mp3",
+    "text": "Wann gedenkst du die Fenster zu putzen?",
+    "duration": 4.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18432382.mp3",
+    "text": "Nanu, jetzt pumpern mir die Ohren.",
+    "duration": 4.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_22219188.mp3",
+    "text": "nein",
+    "duration": 3.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_22219196.mp3",
+    "text": "neun",
+    "duration": 2.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_22219197.mp3",
+    "text": "Firefox",
+    "duration": 2.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_22219200.mp3",
+    "text": "zwei",
+    "duration": 2.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_22219202.mp3",
+    "text": "acht",
+    "duration": 2.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_22219204.mp3",
+    "text": null,
+    "duration": 2.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18206379.mp3",
+    "text": "Sie hat eine Reise nach Australien in der Lotterie gewonnen.",
+    "duration": 7.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18206380.mp3",
+    "text": "Wir vermuten, dass es nachtaktiv ist.",
+    "duration": 6.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18206381.mp3",
+    "text": "Wie lange werde ich heute zur Arbeit brauchen?",
+    "duration": 5.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18206388.mp3",
+    "text": "Das geht auf keine Kuhhaut.",
+    "duration": 6.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18206389.mp3",
+    "text": "Hier sagt der Hase dem Igel gute Nacht.",
+    "duration": 5.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18206391.mp3",
+    "text": "Das ist Absicht.",
+    "duration": 4.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18206392.mp3",
+    "text": "Er erledigt seinen Job, ohne Fragen zu stellen.",
+    "duration": 5.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26347416.mp3",
+    "text": "Die Provinzhauptstadt ist Rancagua.",
+    "duration": 4.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26347417.mp3",
+    "text": "Der Regens besucht zudem \u201eseine\u201c Studierenden jeweils an den verschiedenen Studienorten und Ausbildungspl\u00e4tzen.",
+    "duration": 9.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26347418.mp3",
+    "text": "In den folgenden Jahrzehnten setzte die Entwicklung zum Tiefbau und zur Schachtf\u00f6rderung ein.",
+    "duration": 8.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26347419.mp3",
+    "text": "Die Lesart der Stelle ist unklar.",
+    "duration": 4.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26347420.mp3",
+    "text": "Karl der Gro\u00dfe wohnte bei, machte Halt auf seinem Weg von Rom nach Fritzlar.",
+    "duration": 7.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26353559.mp3",
+    "text": "Ferner wird Duna digital in europ\u00e4ische Kabelnetze eingespeist.",
+    "duration": 7.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26353560.mp3",
+    "text": "Alle beteiligten K\u00fcnstler treten ohne Gage auf, es wird kein Eintritt verlangt.",
+    "duration": 7.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26353561.mp3",
+    "text": "Damals begann er, Libretti, Texte f\u00fcr Revuen und Filmdrehb\u00fccher zu verfassen.",
+    "duration": 7.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26839909.mp3",
+    "text": "Mit dem St\u00fcck \u201eSo sind wir\u201c gibt es allerdings auch wieder einen typischen Onkelz-Titel.",
+    "duration": 7.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26839910.mp3",
+    "text": "Die aufgef\u00fchrte Dienstzeit bezieht sich nur auf die Dienstzeit in der jeweiligen Klasse.",
+    "duration": 7.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26839912.mp3",
+    "text": "Das darunter liegende Kloster steht auf einem gebogenen Schildgrund.",
+    "duration": 6.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26839913.mp3",
+    "text": "Das antike Olympia zwischen Legende und Wirklichkeit.",
+    "duration": 5.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26839914.mp3",
+    "text": "Dazu ist das Recht da und zu nichts anderem!",
+    "duration": 4.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26840039.mp3",
+    "text": "Er beging Selbstmord.",
+    "duration": 3.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26840040.mp3",
+    "text": "Ich m\u00f6chte nochmals unterstreichen, was Kommissar Barnier in Bezug auf die Vorbeugung gesagt hat.",
+    "duration": 7.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26840043.mp3",
+    "text": "Der Film wurde zu einer Momentaufnahme einer stehengebliebenen Zeit.",
+    "duration": 6.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26840044.mp3",
+    "text": "Anschlie\u00dfend kam es in den Nachkriegsjahren zu einem neuerlichen wirtschaftlichen Aufschwung.",
+    "duration": 6.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_26840046.mp3",
+    "text": "Beide Blattseiten sind dunkelgr\u00fcn bis etwas gr\u00e4ulich \u00fcberzogen.",
+    "duration": 5.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_25832302.mp3",
+    "text": "Die Ecole International Le Flamboyant bietet Grundschulausbildung nach franz\u00f6sischem Standard an.",
+    "duration": 8.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_25832313.mp3",
+    "text": "Befasst hat er sich dabei vornehmlich mit dem christlichen Motiv des Kruzifixes.",
+    "duration": 5.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_25832324.mp3",
+    "text": "Die Geschichtsschreibung stimmt in der Einsch\u00e4tzung der englischen Niederlage weitgehend \u00fcberein.",
+    "duration": 6.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_25832330.mp3",
+    "text": "Es ist im Stil des reifen Rokoko gehalten.",
+    "duration": 4.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_25832338.mp3",
+    "text": "Ich hoffe, der Kommissar wird sich diesen Vorschlag aufmerksam anh\u00f6ren.",
+    "duration": 4.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_25832363.mp3",
+    "text": "Gefunden wurde sie in drei Teilen: Oberk\u00f6rper samt Kopf, rechter Arm und Unterk\u00f6rper.",
+    "duration": 6.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_25832369.mp3",
+    "text": "Danach absolvierte er eine Facharztausbildung in Wien.",
+    "duration": 4.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_25832375.mp3",
+    "text": "Wir haben daher gegen den Bericht \u00fcber eine St\u00e4rkung der Rolle der Beobachtungsstelle gestimmt.",
+    "duration": 6.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_25832376.mp3",
+    "text": "Conlon ist eine anglisierte Form eines urspr\u00fcnglich patronymisch gebildeten irischen Familiennamens.",
+    "duration": 7.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_25832378.mp3",
+    "text": "Herr Morris!",
+    "duration": 1.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_25832388.mp3",
+    "text": "Damit erreichte Chamenei eine St\u00e4rkung seiner Position, insbesondere bei widersprechenden Fatwa.",
+    "duration": 6.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18864242.mp3",
+    "text": "Das Kratzen ist total unangenehm.",
+    "duration": 3.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18864243.mp3",
+    "text": "Auch im Bereich der Erwachsenenbildung ist noch Luft nach oben.",
+    "duration": 4.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18864244.mp3",
+    "text": "Wer liest schon die allgemeinen Gesch\u00e4ftsbedingungen?",
+    "duration": 3.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18864245.mp3",
+    "text": "Sie sprachen stundenlang \u00fcber Gott und die Welt.",
+    "duration": 3.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18864246.mp3",
+    "text": "Das ganze Whiteboard ist mit Skizzen und Formeln vollgekritzelt.",
+    "duration": 5.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18864247.mp3",
+    "text": "Jedoch sollte das Narkosemittel mit Bedacht eingesetzt werden.",
+    "duration": 5.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18864248.mp3",
+    "text": "Meiner Meinung nach l\u00e4uft die Entwicklung in die falsche Richtung.",
+    "duration": 4.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18864249.mp3",
+    "text": "Der R\u00fcckw\u00e4rtsgang ist weder synchronisiert noch schr\u00e4g verzahnt.",
+    "duration": 5.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18864250.mp3",
+    "text": "Erfinden Sie das Rad nicht neu!",
+    "duration": 3.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18864251.mp3",
+    "text": "Also ich habe was dabei.",
+    "duration": 3.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18864257.mp3",
+    "text": "Von den durchdrehenden Reifen wird eine riesige Staubwolke aufgewirbelt.",
+    "duration": 5.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18864258.mp3",
+    "text": "Fr\u00fcher gab es einen Blasebalg, der mit Muskelkraft bedient werden musste.",
+    "duration": 5.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18864259.mp3",
+    "text": "Lassen Sie sich nicht mit einer unsicheren Pr\u00fcfsumme abspeisen.",
+    "duration": 4.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18864260.mp3",
+    "text": "Mal sehen, wer gewonnen hat.",
+    "duration": 2.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18864261.mp3",
+    "text": "Und dann muss der Brief noch frankiert werden.",
+    "duration": 3.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18864262.mp3",
+    "text": "Nach f\u00fcnf Jahren Studium bekam David nur eine befristete Stelle.",
+    "duration": 5.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18864264.mp3",
+    "text": "Welch ein brillanter Einfall, Herr Professor!",
+    "duration": 3.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18864265.mp3",
+    "text": "Im Bett ging ihr alles noch mal durch den Kopf.",
+    "duration": 3.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18864266.mp3",
+    "text": "Wie viel Papier und Tinte braucht man, um das Internet auszudrucken?",
+    "duration": 5.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_21207996.mp3",
+    "text": "Wenn es alternative Erzeugnisse gibt, dann m\u00fcssen sie unsere erste Wahl sein.",
+    "duration": 6.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_21207997.mp3",
+    "text": "Wir hoffen sehr, dass die \u00c4nderung zur\u00fcckgezogen wird.\"",
+    "duration": 4.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_21207998.mp3",
+    "text": "Ich m\u00f6chte fragen, wen die chinesische Regierung auf den Arm zu nehmen gedenkt.",
+    "duration": 5.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_21208000.mp3",
+    "text": "Ich bin der Meinung, dass man diese vollst\u00e4ndig abschaffen sollte.",
+    "duration": 4.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_21208001.mp3",
+    "text": "Sie sind beweglich.",
+    "duration": 2.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_21223549.mp3",
+    "text": "Problematisch sind in erster Linie nicht nur Wohnbl\u00f6cke, sondern nat\u00fcrlich alte Geb\u00e4ude.",
+    "duration": 7.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_21223550.mp3",
+    "text": "Herr Pr\u00e4sident! Ich bedanke mich f\u00fcr die Ausf\u00fchrungen.",
+    "duration": 4.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_21223551.mp3",
+    "text": "Andernfalls k\u00f6nnen wir diesem Unfug nicht zustimmen.",
+    "duration": 5.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_21223556.mp3",
+    "text": "Das k\u00f6nnte eine sehr n\u00fctzliche Initiative werden.",
+    "duration": 3.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_21223623.mp3",
+    "text": "Das zweite Element ist eine wahrhaft europ\u00e4ische L\u00f6sung f\u00fcr Drittl\u00e4nder.",
+    "duration": 6.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_21223627.mp3",
+    "text": "Vielleicht kann diese Erkl\u00e4rung Herrn Van den Broek \u00fcbermittelt werden.",
+    "duration": 5.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_21223629.mp3",
+    "text": "Herr Pr\u00e4sident, Ihre Pr\u00e4sidentschaft beginnt nach dem Gipfel von Amsterdam.",
+    "duration": 6.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_21223631.mp3",
+    "text": "Dies nur nebenbei.",
+    "duration": 2.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_21223632.mp3",
+    "text": "Sie sollten sich h\u00fcten, den legitimen Zorn der B\u00fcrger zu wecken.",
+    "duration": 4.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_21223707.mp3",
+    "text": "Dies ist kein neues Ph\u00e4nomen.",
+    "duration": 2.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_21223710.mp3",
+    "text": "Wir werden die Fortschritte der Kommission bei der Einhaltung dieser Bestimmungen \u00fcberwachen.",
+    "duration": 7.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_21223711.mp3",
+    "text": "Ist es rechtens, eine Abstimmung in anderer Zusammensetzung zu wiederholen?",
+    "duration": 5.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_21223712.mp3",
+    "text": "Stellen wir uns diesen Herausforderungen!",
+    "duration": 4.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_21223713.mp3",
+    "text": "Der erste ist der territoriale Zusammenhalt.",
+    "duration": 4.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_22392588.mp3",
+    "text": "drei",
+    "duration": 2.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_22392589.mp3",
+    "text": "f\u00fcnf",
+    "duration": 2.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_22392590.mp3",
+    "text": "acht",
+    "duration": 1.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_22392591.mp3",
+    "text": "sieben",
+    "duration": 2.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_22392592.mp3",
+    "text": "Firefox",
+    "duration": 2.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_22392593.mp3",
+    "text": "eins",
+    "duration": 1.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_22392594.mp3",
+    "text": "neun",
+    "duration": 2.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_22392595.mp3",
+    "text": "zwei",
+    "duration": 2.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_22392596.mp3",
+    "text": "vier",
+    "duration": 2.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_22392597.mp3",
+    "text": "nein",
+    "duration": 2.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_22392608.mp3",
+    "text": "ja",
+    "duration": 2.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_22392609.mp3",
+    "text": "sechs",
+    "duration": 1.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_22392610.mp3",
+    "text": null,
+    "duration": 2.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_22392611.mp3",
+    "text": "K\u00f6nnen wir uns sp\u00e4ter treffen?",
+    "duration": 3.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_22392612.mp3",
+    "text": "Daher ist die Wahrscheinlichkeit, abgewiesen zu werden, vergleichsweise gering.",
+    "duration": 6.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_22403983.mp3",
+    "text": "Auch in der franz\u00f6sischsprachigen Schweiz sind kleine Best\u00e4nde bekannt.",
+    "duration": 6.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_22403985.mp3",
+    "text": "Dabei fiel Brigadegeneral Garnett als erster General des B\u00fcrgerkrieges.",
+    "duration": 7.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_22403986.mp3",
+    "text": "Smith wurde auch Pr\u00e4sident der \"Welden National Bank\".",
+    "duration": 5.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_22403987.mp3",
+    "text": "Nach dem Mahl wurde der Tisch versenkt und es entstand ein Ballsaal.",
+    "duration": 6.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_22404018.mp3",
+    "text": "Diese Arten weisen ein langsames Wachstum auf und reagieren auf eine \u00dcberfischung besonders empfindlich.",
+    "duration": 8.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_22404019.mp3",
+    "text": "Der Orwell ist ein beliebter Fluss zum Segeln.",
+    "duration": 5.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_22404021.mp3",
+    "text": "Der Schadensersatz ist analog zum Beamten geregelt.",
+    "duration": 4.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_22404022.mp3",
+    "text": "Es gilt daher als grundlegendes Werk des Keynesianismus.",
+    "duration": 4.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18633752.mp3",
+    "text": "Steht auf und zeigt euch!",
+    "duration": 5.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18633754.mp3",
+    "text": "Zuschn\u00fcren und abschicken!",
+    "duration": 4.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18633755.mp3",
+    "text": "Zumindest ein bisschen.",
+    "duration": 4.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18633793.mp3",
+    "text": "Senken Sie den Energieverbrauch!",
+    "duration": 4.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18633795.mp3",
+    "text": "Ich w\u00fcnsche mir einen Roboter, der Unkraut rupft, st\u00f6hnt der G\u00e4rtner.",
+    "duration": 8.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18633833.mp3",
+    "text": "Vor den kleinen musst du dich f\u00fcrchten, nicht vor den gro\u00dfen!",
+    "duration": 7.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18633835.mp3",
+    "text": "Datenanalyse ist zur Monetarisierung erforderlich, sagte der Chief Operating Officer.",
+    "duration": 8.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18633853.mp3",
+    "text": "Endlich mal eine durchdachte Verpackung.",
+    "duration": 6.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18633857.mp3",
+    "text": "Voll der Lauch!",
+    "duration": 3.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18633899.mp3",
+    "text": "Wart ihr schon einmal in dem Club?",
+    "duration": 4.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18633901.mp3",
+    "text": "Im Prospekt sieht alles sch\u00f6n und idyllisch aus.",
+    "duration": 6.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18633902.mp3",
+    "text": "Ist das noch Satire oder schon Majest\u00e4tsbeleidigung?",
+    "duration": 5.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18633910.mp3",
+    "text": "Kann ich bitte einen Satz zu Ende sprechen?",
+    "duration": 5.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18633911.mp3",
+    "text": "Das Blatt hat doch zwei Seiten, mein Schatz.",
+    "duration": 5.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18633912.mp3",
+    "text": "Manchmal redest du ein Zeug daher!",
+    "duration": 4.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18633913.mp3",
+    "text": "Das Licht wird schw\u00e4cher.",
+    "duration": 4.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18633914.mp3",
+    "text": "Deine Aufgabe ist es, das ganze Geraffel hier auseinander zu klab\u00fcstern.",
+    "duration": 7.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18633965.mp3",
+    "text": "Bei dem Kamikaze-Fahrstil ist es ein Wunder, dass er noch am Leben ist.",
+    "duration": 8.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18633966.mp3",
+    "text": "Etwas mehr Diskretion, bitte!",
+    "duration": 4.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18633967.mp3",
+    "text": "Warm-ups dienen als Icebreaker.",
+    "duration": 5.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18633968.mp3",
+    "text": "Geben Sie sich keine M\u00fche.",
+    "duration": 3.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18633969.mp3",
+    "text": "Hat die Schulung etwas gebracht?",
+    "duration": 4.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18634000.mp3",
+    "text": "Es zieht.",
+    "duration": 3.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18634003.mp3",
+    "text": "Br\u00fcche werden systemseitig nicht als Punktzahl akzeptiert.",
+    "duration": 5.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18634035.mp3",
+    "text": "Schon ein bisschen albern.",
+    "duration": 3.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18634037.mp3",
+    "text": "Schwerer Schmuck muss an die kr\u00e4ftigen \u00c4ste geh\u00e4ngt werden.",
+    "duration": 6.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18634038.mp3",
+    "text": "Die abgeleitete Standardeinheit f\u00fcr Energie ist Joule.",
+    "duration": 6.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18634085.mp3",
+    "text": "Muss man das verstehen?",
+    "duration": 3.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18634089.mp3",
+    "text": "Herr Kuhn nahm eine lange Stange und stocherte in der Baumkrone herum.",
+    "duration": 6.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_30514579.mp3",
+    "text": "Er wurde aber vom Rateteam augenblicklich erkannt.",
+    "duration": 6.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_30514580.mp3",
+    "text": "Die beiden Portalsteine sind \u00fcber zwei Meter hoch.",
+    "duration": 5.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_30514581.mp3",
+    "text": "Wilf Gasser ist verheiratet und hat drei erwachsene Kinder.",
+    "duration": 6.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_30514582.mp3",
+    "text": "Trotz der geringen Einwohnerschaft gibt es am Ort einen Kindergarten und eine Grundschule.",
+    "duration": 8.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_30514583.mp3",
+    "text": "Die Siedlungen ihres Einzugsgebietes liegen nicht direkt am Gew\u00e4sser, sondern an den H\u00e4ngen ringsum.",
+    "duration": 9.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_30538327.mp3",
+    "text": "Und die gibt es.",
+    "duration": 3.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_30538328.mp3",
+    "text": "Die meist f\u00fcnf wechselst\u00e4ndig und zweizeilig am St\u00e4ngel verteilten Laubbl\u00e4tter sind parallelnervig.",
+    "duration": 9.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_30538329.mp3",
+    "text": "Lamont wurde auf seiner Familienfarm in Cortland County, New York geboren.",
+    "duration": 8.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_30538330.mp3",
+    "text": "Er ist \"sehr eigent\u00fcmlich im Stil und sch\u00f6n geschrieben\".",
+    "duration": 5.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_30538341.mp3",
+    "text": "Ferner publizierte er zum Bergwesen.",
+    "duration": 4.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_30538342.mp3",
+    "text": "Die meisten davon waren bis vor kurzer Zeit der \u00d6ffentlichkeit nicht zug\u00e4nglich.",
+    "duration": 7.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_30538343.mp3",
+    "text": "Auch die Schie\u00dfscharten in der Friedhofsmauer lassen darauf schlie\u00dfen.",
+    "duration": 5.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_30538344.mp3",
+    "text": "Sie leben im tropischen Atlantik und Indopazifik.",
+    "duration": 5.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_30538345.mp3",
+    "text": "W\u00e4hrend der Verarbeitung der Anfrage kann die Konsistenz der Datenbank jedoch kurzfristig verletzt werden.",
+    "duration": 8.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_30538436.mp3",
+    "text": "Die Triebwagen hatten an den Wagenenden und in der Fahrzeugmitte einen Einstieg.",
+    "duration": 6.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_30538437.mp3",
+    "text": "Wir arbeiten bereits auf die Inbetriebnahme eines solchen Mechanismus hin.",
+    "duration": 6.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_30538438.mp3",
+    "text": "Von hier aus \u00fcberfielen sie byzantinische D\u00f6rfer und St\u00e4dte.",
+    "duration": 5.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_30538439.mp3",
+    "text": "Das traditionelle Gericht der aschkenasisch-j\u00fcdischen K\u00fcche \u00e4hnelt den italienischen Ravioli oder den schw\u00e4bischen Maultaschen.",
+    "duration": 10.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_30538440.mp3",
+    "text": "Da sich seine Eltern trennten, wuchs er in Bielefeld, der Heimat seiner Mutter auf.",
+    "duration": 7.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_30538461.mp3",
+    "text": "Es folgte das Album \"Cuore d\u2019acciaio\" bei Columbia.",
+    "duration": 7.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_30538462.mp3",
+    "text": "Krause trug wesentlich dazu bei, dass der Vertrag in sieben Wochen ausgehandelt werden konnte.",
+    "duration": 8.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_30538463.mp3",
+    "text": "In Saporischschja ist haupts\u00e4chlich die Ukrainisch-Orthodoxe Kirche Moskauer Patriarchats vertreten.",
+    "duration": 8.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_30538464.mp3",
+    "text": "Stephan kehrt in die Berge zu seiner Verlobten zur\u00fcck.",
+    "duration": 5.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_30538465.mp3",
+    "text": "Bei Deutschen Meisterschaften gewann er gegen Norbert Schramm und Rudi Cerne.",
+    "duration": 7.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_30538471.mp3",
+    "text": "Seine Karriere brachte dem S\u00e4nger und Schauspieler zahlreiche Auszeichnungen ein, so erhielt er",
+    "duration": 8.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_30538472.mp3",
+    "text": "Diese f\u00fcrchteten, ihr Budget k\u00f6nne durch die enormen Kosten der vier Schiffe gek\u00fcrzt werden.",
+    "duration": 7.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_30538473.mp3",
+    "text": "Derzeit arbeiten wir an diesem Vorschlag.",
+    "duration": 4.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_30538474.mp3",
+    "text": "Der Platz ist heute eine der verkehrsreichsten Kreuzungen der Stadt.",
+    "duration": 5.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_30538475.mp3",
+    "text": "\u00dcber die Aktivit\u00e4ten des Kambyses liegen keine Quellen aus seiner eigenen Zeit vor.",
+    "duration": 7.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_30538565.mp3",
+    "text": "Sie haben nicht alle Fragen beantwortet, die gestellt wurden, Herr Kommissar.",
+    "duration": 5.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_30538566.mp3",
+    "text": "Ottmer verband bei seinem Entwurf f\u00fcr den zweiten Braunschweiger Bahnhof also sehr unterschiedliche Vorbilder.",
+    "duration": 8.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_30538567.mp3",
+    "text": "Dar\u00fcber sitzt noch ein Geschoss auf, das der Glockenstube.",
+    "duration": 5.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_30538568.mp3",
+    "text": "Sie ist kein unilaterales Problem.",
+    "duration": 4.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_30538569.mp3",
+    "text": "Die Gesch\u00e4ftsf\u00fchrung wird zum hauptamtlichen Vorstand, der f\u00fcr jeweils sechs Jahre gew\u00e4hlt wird.",
+    "duration": 7.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_25034024.mp3",
+    "text": "In der Praxis ist ein Kompromiss zwischen der Bandbreite und der Genauigkeit zu schlie\u00dfen.",
+    "duration": 8.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_25034025.mp3",
+    "text": "Diese Vorw\u00fcrfe konnte er jedoch widerlegen und kam straffrei davon.",
+    "duration": 8.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_25034026.mp3",
+    "text": "Au\u00dferdem untersuchte er verschiedenste organische Stoffe, wie zum Beispiel Zucker.",
+    "duration": 8.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_25034027.mp3",
+    "text": "Die Natur diente nun als Anregung und Vorlage zur Gestaltung neuer Farbkompositionen.",
+    "duration": 8.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_25034028.mp3",
+    "text": "Der Wille ist durchaus vorhanden.",
+    "duration": 5.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_25034114.mp3",
+    "text": "Seine Grafiken sind im New Yorker Museum of Modern Art zu sehen.",
+    "duration": 8.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_25034115.mp3",
+    "text": "J\u00e4hrlich wurden zwei Umfragen verschickt.",
+    "duration": 4.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_25034116.mp3",
+    "text": "Daraus entsteht oft eine gewaltige \u00dcberproduktion, die mit sehr teurer Lagerhaltung verbunden ist.",
+    "duration": 9.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_25034117.mp3",
+    "text": "Das wird dar\u00fcber entscheiden, in welche Situationen wir die fl\u00fcchtenden Menschen bringen.",
+    "duration": 8.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_25034118.mp3",
+    "text": "Bei einem Unentschieden kann die Ausw\u00e4rtstorregel angewendet werden.",
+    "duration": 7.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_25042843.mp3",
+    "text": "Der geborene Amerikaner Orson Welles kann hierbei als singul\u00e4re Erscheinung gesehen werden.",
+    "duration": 8.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_25042845.mp3",
+    "text": "In diesem Zuge wurden Mauern und ein Torturm als Befestigungen errichtet.",
+    "duration": 8.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_25042847.mp3",
+    "text": "Der internationale Titel lautet \"The Bronx Warriors\".",
+    "duration": 7.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_25042848.mp3",
+    "text": "Wenige Wochen sp\u00e4ter bestritten sie in Ottawa ihre erste Weltmeisterschaft und wurden F\u00fcnfte.",
+    "duration": 8.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_25042909.mp3",
+    "text": "Atheistischen Wissenschaftlern bot er den Dialog an.",
+    "duration": 6.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_25042910.mp3",
+    "text": "Die ehemals verbretterte flache Holzbalkendecke war mit vielf\u00e4ltigen Malereien im Renaissancestil versehen.",
+    "duration": 9.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_25042911.mp3",
+    "text": "In S\u00fcdafrika will er Mangan und in der Ukraine Titan f\u00f6rdern.",
+    "duration": 6.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_25042912.mp3",
+    "text": "Als technischer Direktor wurde der ungarische Flugzeugkonstrukteur Ing.",
+    "duration": 6.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_25042913.mp3",
+    "text": "Er wohnt in Duisburg.",
+    "duration": 3.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_25042960.mp3",
+    "text": "Dies wird durch zwei F\u00e4lle eindeutig belegt.",
+    "duration": 4.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_25042961.mp3",
+    "text": "Zwei Jahre lang blieb er bei Giono und k\u00fcmmerte sich um dessen Haushalt.",
+    "duration": 7.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_25042962.mp3",
+    "text": "Nach eigenen Angaben ist Enterprise die gr\u00f6\u00dfte Autovermietung Nordamerikas.",
+    "duration": 6.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_25042964.mp3",
+    "text": "Mit einer guten Folie kann man dies zumindest vermeiden.",
+    "duration": 5.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_25043012.mp3",
+    "text": "Diese neue Generation lebt vorwiegend in den Bergregionen und ben\u00f6tigt somit unsere Unterst\u00fctzung.",
+    "duration": 8.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_25043013.mp3",
+    "text": "Ciceros Briefe an Atticus umfassen sechzehn B\u00fccher und fast den gesamten Zeitraum ihrer Freundschaft.",
+    "duration": 9.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_25043015.mp3",
+    "text": "Das ist meiner Auffassung nach der springende Punkt.",
+    "duration": 4.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_25043017.mp3",
+    "text": "Die Bewohner von Brot-Dessous lebten lange Zeit haupts\u00e4chlich von der Landwirtschaft.",
+    "duration": 6.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_25043019.mp3",
+    "text": "Der Rest der Band stimmte der Aufl\u00f6sung zu.",
+    "duration": 5.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_25043452.mp3",
+    "text": "Er ist der Prototyp einer sogenannten Trabantenstadt.",
+    "duration": 6.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_25043453.mp3",
+    "text": "Mit der Temperatur sinkt auch die F\u00e4higkeit der Luft, Feuchtigkeit aufzunehmen.",
+    "duration": 7.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_25043454.mp3",
+    "text": "Abschriften wichtiger Urkunden mit den Privilegien des Klosters sind ebenso zu finden.",
+    "duration": 7.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_25043455.mp3",
+    "text": "All das beeinflusst Werbeeinnahmen positiv.",
+    "duration": 5.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_25043456.mp3",
+    "text": "Die Schwanzflosse ist nur leicht eingekerbt oder abgerundet.",
+    "duration": 6.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_25079388.mp3",
+    "text": "Schirmherrin des Preises waren Sabine von Schorlemer sowie Eva-Maria Stange.",
+    "duration": 9.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_25079391.mp3",
+    "text": "Die m\u00f6glichen Gr\u00fcnde hierf\u00fcr sind vielf\u00e4ltig, bleiben jedoch nur Spekulationen.",
+    "duration": 7.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_25079392.mp3",
+    "text": "Pente ist ein Ortsteil von Bramsche.",
+    "duration": 5.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_25079419.mp3",
+    "text": "K\u00f6nigslutter ist Sitz einer gleichnamigen Propstei der Evangelisch-lutherischen Landeskirche in Braunschweig.",
+    "duration": 10.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_25079420.mp3",
+    "text": "Somit kam erstmals Erstligafu\u00dfball nach Sinaloa.",
+    "duration": 6.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_25079422.mp3",
+    "text": "Dann sei er im Krieg gefallen.",
+    "duration": 4.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_25079424.mp3",
+    "text": "Diese ist auch Thema der Entwicklungspsychologie.",
+    "duration": 5.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_25079425.mp3",
+    "text": "Erst als sie unter der Dusche zusammenbricht, gesteht sie sich ein, Alkoholikerin zu sein.",
+    "duration": 8.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_25079427.mp3",
+    "text": "Riedelbach liegt im \u00f6stlichen Hintertaunus im Naturpark Taunus, nordwestlich des Gro\u00dfen Feldberg.",
+    "duration": 10.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_19356867.mp3",
+    "text": "Janukowytsch legte dar, dass er sich weiter f\u00fcr den rechtm\u00e4\u00dfigen Pr\u00e4sidenten der Ukraine halte.",
+    "duration": 6.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_19356868.mp3",
+    "text": "Der Vertrag beinhaltet insbesondere die Verrechnung der Kosten der Beendigung von Juke Musikstreaming.",
+    "duration": 7.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_19356869.mp3",
+    "text": "Heute arbeitet er im australischen Sydney.",
+    "duration": 4.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_19356870.mp3",
+    "text": "Eine Neuerung ist das \u201eZiehen\u201c eines Buchstabens anhand von einzelnen Spielkarten.",
+    "duration": 6.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_19356871.mp3",
+    "text": "Von diesem Konflikt mit der Partei- und Staatsf\u00fchrung hat sich Br\u00e4unig nie wieder erholt.",
+    "duration": 5.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_19356878.mp3",
+    "text": "Eine Interpretation tats\u00e4chlich mittelalterlicher Musikst\u00fccke war in den Anfangsjahren h\u00e4ufig.",
+    "duration": 6.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_19356879.mp3",
+    "text": "Zahlreiche \u00f6ffentliche Auftr\u00e4ge in Gro\u00dfbritannien, aber auch in \u00d6sterreich, folgten.",
+    "duration": 5.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_19356880.mp3",
+    "text": "Urlaubern stehen im Ort und seiner Umgebung viele Campingpl\u00e4tze zur Verf\u00fcgung.",
+    "duration": 5.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_19356881.mp3",
+    "text": "Es verkehren t\u00e4glich mehrere Schnellz\u00fcge.",
+    "duration": 3.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_19356894.mp3",
+    "text": "Aus drei Tonnen Bl\u00fcten wird ungef\u00e4hr ein Liter Rosen\u00f6l destilliert.",
+    "duration": 5.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_19356895.mp3",
+    "text": "Die Rechtsprechung hat mehrmals entschieden, dass hierzu auch die Kosten der AiB z\u00e4hlen.",
+    "duration": 6.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_19356896.mp3",
+    "text": "Beide k\u00e4mpften dabei in vorderster Schlachtreihe mit.",
+    "duration": 4.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_19356897.mp3",
+    "text": "Auch hatte sie einen Live-Auftritt im Westfalenstadion vor einem Spiel der Borussia.",
+    "duration": 6.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_19356903.mp3",
+    "text": "Der Gegensatz zum Agens ist das Patiens.",
+    "duration": 4.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_19356904.mp3",
+    "text": "Gerald Thalheim ist verheiratet und hat drei Kinder.",
+    "duration": 4.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_19356905.mp3",
+    "text": "Bei dieser Betrachtung k\u00f6nnen die abgegebene thermische Leistung und die elektrische Leistung zusammengerechnet werden.",
+    "duration": 7.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_19356906.mp3",
+    "text": "Dabei handelte es sich ausschlie\u00dflich um Roma.",
+    "duration": 4.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_19356907.mp3",
+    "text": "Er ist gr\u00f6\u00dfer und st\u00e4rker als alle anderen, seine St\u00e4rke ist \u00fcberirdisch.",
+    "duration": 5.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_19356913.mp3",
+    "text": "Klasse aufgenommen.",
+    "duration": 2.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_19356914.mp3",
+    "text": "Der Fettgehalt in der Trockenmasse betr\u00e4gt f\u00fcnfzig Prozent.",
+    "duration": 4.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_19356915.mp3",
+    "text": "Ihre Texte behandeln das Thema Einsamkeit und die Unf\u00e4higkeit der Menschen, miteinander zu kommunizieren.",
+    "duration": 7.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_19356916.mp3",
+    "text": "Lampson ist verheiratet und hat zwei Kinder.",
+    "duration": 3.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_19356917.mp3",
+    "text": "Es gab keine Wahlkabine und die W\u00e4hler mussten die Wahlzettel auf einem Tisch ankreuzen.",
+    "duration": 6.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_19356918.mp3",
+    "text": "Erst durch Charles Darwins Evolutionstheorie setzte sich die heute vorherrschende nicht-teleologische Sichtweise durch.",
+    "duration": 8.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_19356919.mp3",
+    "text": "An der Fundstelle des Mosaiks wird zurzeit ein Museum errichtet.",
+    "duration": 5.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_19356920.mp3",
+    "text": "Dieses Muster kann einem Hoax zugrunde liegen.",
+    "duration": 3.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_19356921.mp3",
+    "text": "Die Brutdauer betr\u00e4gt zw\u00f6lf bis vierzehn Tage.",
+    "duration": 4.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_19356922.mp3",
+    "text": "Dabei wurde der Walzer mit dem von Schl\u00f6gl entlehnten Titel von Johann Strauss uraufgef\u00fchrt.",
+    "duration": 6.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_19356923.mp3",
+    "text": "Hier befindet sich ein Stern von Wasserscheiden mehrerer Fl\u00fcsse.",
+    "duration": 4.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_19356924.mp3",
+    "text": "Die Bl\u00e4tter sind schildf\u00f6rmig und lang gestielt.",
+    "duration": 4.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_19356925.mp3",
+    "text": "Die Art w\u00e4chst endemisch in der Mata Atl\u00e2ntica Brasiliens.",
+    "duration": 5.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_19356926.mp3",
+    "text": "Weidauer wurde vor allem bekannt als langj\u00e4hriger Oberb\u00fcrgermeister der Stadt Dresden.",
+    "duration": 6.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_19356927.mp3",
+    "text": "Die Kommission zur Untersuchung \u00fcber die Reorganisation des landwirtschaftlichen Kredits tagte zumeist in M\u00fcnchen.",
+    "duration": 8.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_19356928.mp3",
+    "text": "Alle drei Achsen schneiden sich idealerweise in einem Punkt.",
+    "duration": 5.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_19356929.mp3",
+    "text": "Der Ort wird von der Stra\u00dfe der Romanik ber\u00fchrt.",
+    "duration": 4.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_19356930.mp3",
+    "text": "Die Angaben zu seiner Abstammung variieren allerdings in den unterschiedlichen \u00dcberlieferungen.",
+    "duration": 6.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_19356931.mp3",
+    "text": "Aoki lebt und arbeitet in Ky\u014dto.",
+    "duration": 4.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_19356932.mp3",
+    "text": "Au\u00dferdem gibt es Ausnahmen, veraltete Formen sowie Unterschiede in der Pluralbildung.",
+    "duration": 6.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_19356934.mp3",
+    "text": "Die etwa zwei bis zehn Samen pro Frucht sind schwarz oder fast schwarz.",
+    "duration": 6.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_19356935.mp3",
+    "text": "Stimmberechtigt sind nur Mitglieder, die mindestens einen Master-Abschluss in naturwissenschaftlicher Richtung haben.",
+    "duration": 6.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_19356936.mp3",
+    "text": "F\u00fcr den optimalen Lerneffekt sollten die Lehrmethoden auf die Voraussetzungen der Lernenden abgestimmt sein.",
+    "duration": 7.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_19356937.mp3",
+    "text": "Des Weiteren wurde eine St\u00f6rung des Zentralnervensystems festgestellt.",
+    "duration": 5.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_19356938.mp3",
+    "text": "Auch die Nationalmannschaft Indiens tr\u00e4gt L\u00e4nderspiele im Ambedkar-Stadion aus.",
+    "duration": 6.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17298952.mp3",
+    "text": "K\u00f6nnen Sie ein konkretes Beispiel nennen?",
+    "duration": 2.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17298953.mp3",
+    "text": "Wie lange f\u00e4hrt man mit der Bahn von Heilbronn nach Bayreuth?",
+    "duration": 3.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17298954.mp3",
+    "text": "Unsere Haut ist verschieden, doch unser Blut ist rot und unsere Lungen sind schwarz.",
+    "duration": 4.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17309909.mp3",
+    "text": "Sieh mal, ein altes M\u00fcnztelefon!",
+    "duration": 2.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17309911.mp3",
+    "text": "Seine Freundin hatte sich an seine Schulter gelehnt und schlummerte friedlich, w\u00e4hrend er sie z\u00e4rtlich streichelte.",
+    "duration": 6.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17309912.mp3",
+    "text": "Immer mit der Ruhe, ein alter Mann ist kein D-Zug.",
+    "duration": 3.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17309925.mp3",
+    "text": "Abgerundete Ecken sind keine Innovation.",
+    "duration": 3.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17309926.mp3",
+    "text": "Die Angst vor Nachbeben ist verst\u00e4ndlicherweise noch sehr gro\u00df.",
+    "duration": 3.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17309927.mp3",
+    "text": "Ja nee ist klar.",
+    "duration": 2.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17309931.mp3",
+    "text": "Elf Meilen vor der K\u00fcste ist ein Tanker auf Grund gelaufen.",
+    "duration": 3.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17309932.mp3",
+    "text": "Schlie\u00dflich entschloss Hugo sich, einen Brief zu verfassen.",
+    "duration": 3.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17309933.mp3",
+    "text": "Die zweite Maus bekommt den K\u00e4se.",
+    "duration": 2.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17360307.mp3",
+    "text": "Morgen kommt Dora aus ihrem Skiurlaub in S\u00f6lden wieder.",
+    "duration": 3.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17360308.mp3",
+    "text": "Haben Sie ein Rezept?",
+    "duration": 1.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17360309.mp3",
+    "text": "Ich will ein Kind von dir!",
+    "duration": 2.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17360310.mp3",
+    "text": "Er verh\u00e4lt sich wie eine Eidechse im freien Fall.",
+    "duration": 3.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17360311.mp3",
+    "text": "In der Zeitlupe kann man jeden einzelnen Fl\u00fcgelschlag des Kolibris sehen.",
+    "duration": 4.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17360312.mp3",
+    "text": "Nur weil es beim Nachbarn brennt, sollte man nicht die Rauchentwicklung in der eigenen K\u00fcche ignorieren.",
+    "duration": 5.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17360313.mp3",
+    "text": "Sieht aus wie eine Zuh\u00e4lterkarre.",
+    "duration": 2.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17360314.mp3",
+    "text": "Aber nat\u00fcrlich.",
+    "duration": 1.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17360315.mp3",
+    "text": "Maja und Elfriede jedenfalls wollen sich das Spektakel nicht entgehen lassen.",
+    "duration": 4.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17360316.mp3",
+    "text": "So ist es nichts halbes und nichts ganzes.",
+    "duration": 2.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17360317.mp3",
+    "text": "Robin benimmt sich wie ein Elefant im Porzellanladen.",
+    "duration": 2.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17360318.mp3",
+    "text": "Wie schafft man es, das Sieb so schnell verdrecken zu lassen?",
+    "duration": 3.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17371707.mp3",
+    "text": "Es ist dennoch fraglich, ob sie den imperativen Sprachen den Rang ablaufen werden.",
+    "duration": 4.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17371708.mp3",
+    "text": "Der Vergleich mit Fu\u00dfballfeldern ist an dieser Stelle weder anschaulich noch hilfreich.",
+    "duration": 4.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17371711.mp3",
+    "text": "Manchmal hat Niko epileptische Anf\u00e4lle.",
+    "duration": 2.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17371741.mp3",
+    "text": "Das Brummen des Trafos ging manchem auf den Senkel.",
+    "duration": 2.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17407770.mp3",
+    "text": "Das Online-Gesch\u00e4ft ist mittlerweile unser st\u00e4rkstes Zugpferd.",
+    "duration": 4.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17407771.mp3",
+    "text": "Auf dem Preisschild stand neunundsechzig Euro neunundneunzig.",
+    "duration": 5.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17407772.mp3",
+    "text": "Wunschliste anzeigen.",
+    "duration": 2.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17407773.mp3",
+    "text": "Das Moment berechnet sich als Kreuzprodukt von Radius und Kraft.",
+    "duration": 5.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17507520.mp3",
+    "text": "Dieses diabolische Grinsen sagt alles.",
+    "duration": 3.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17507521.mp3",
+    "text": "Der Beh\u00e4lter f\u00fcr den Biom\u00fcll ist unter dem Waschbecken.",
+    "duration": 3.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17507522.mp3",
+    "text": "Allianz ist ein gutes Stichwort.",
+    "duration": 2.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17507523.mp3",
+    "text": "Na dann schie\u00df los!",
+    "duration": 1.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17507524.mp3",
+    "text": "Kannst du mich nach Berlin mitnehmen?",
+    "duration": 2.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17618912.mp3",
+    "text": "Ja, welches Forum meine ich wohl?",
+    "duration": 2.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17618913.mp3",
+    "text": "Andreas anrufen.",
+    "duration": 2.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17923920.mp3",
+    "text": "Die t\u00fcrkische befindet sich gleich neben der slowakischen Botschaft.",
+    "duration": 3.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17923921.mp3",
+    "text": "Alles anzeigen.",
+    "duration": 1.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17923922.mp3",
+    "text": "Obwohl es mit viel Tamtam beworben wurde, entpuppt sich das Haarwuchsmittel als Ladenh\u00fcter.",
+    "duration": 4.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17923923.mp3",
+    "text": "Da sie die H\u00e4nde nicht frei hatte, versuchte Zora sich die Haare aus dem Gesicht zu pusten.",
+    "duration": 4.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17923924.mp3",
+    "text": "Einen Stuhl weiter lie\u00df sich eine \u00e4ltere Dame Locken wickeln.",
+    "duration": 3.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17943886.mp3",
+    "text": "Beschreibungen \u00fcber allergische Reaktionen sind selten, aber meist heftig.",
+    "duration": 4.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17943887.mp3",
+    "text": "Monaco ist die Hauptstadt von Monaco.",
+    "duration": 3.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17943888.mp3",
+    "text": "Es fehlt das gewisse Etwas.",
+    "duration": 2.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17943890.mp3",
+    "text": "Vor dem \u00d6ffnen einmal kr\u00e4ftig sch\u00fctteln!",
+    "duration": 3.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17943897.mp3",
+    "text": "Wie k\u00f6nnt ihr dar\u00fcber lachen?",
+    "duration": 2.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17943898.mp3",
+    "text": "Sie wollen ein konkretes Beispiel?",
+    "duration": 2.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17943900.mp3",
+    "text": "Eingefrorene Kraftstoffleitungen geh\u00f6ren dank elektrischer Heizung der Vergangenheit an.",
+    "duration": 5.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17943901.mp3",
+    "text": "Das hatten wir schon.",
+    "duration": 1.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227200.mp3",
+    "text": "Seine Vorgehensweise st\u00f6\u00dft auf Unverst\u00e4ndnis.",
+    "duration": 5.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227201.mp3",
+    "text": "Kommen Sie wie immer gut und sicher ans Ziel.",
+    "duration": 5.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227202.mp3",
+    "text": "Dagmar hat das Bewusstsein verloren.",
+    "duration": 4.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227203.mp3",
+    "text": "Daran kann ich beim besten Willen keinen Gefallen finden, sagte Silja mit einem ernsten Gesichtsausdruck.",
+    "duration": 8.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227204.mp3",
+    "text": "Wer \u00fcbernimmt die Regie?",
+    "duration": 3.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227214.mp3",
+    "text": "Regnet es heute in Bielefeld?",
+    "duration": 3.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227216.mp3",
+    "text": "Was wir hier lernen ist doch v\u00f6llig sinnlos, wirft Emilia ein.",
+    "duration": 5.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227217.mp3",
+    "text": "Frau Hofer, ich habe meinen Turnbeutel vergessen.",
+    "duration": 4.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227218.mp3",
+    "text": "Selbstverst\u00e4ndlich \u00fcbernehmen wir die Kosten f\u00fcr An- und Abfahrt.",
+    "duration": 5.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227219.mp3",
+    "text": "Ulaanbaatar ist die Hauptstadt von Mongolei.",
+    "duration": 5.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227236.mp3",
+    "text": "\u00dcber Amateurniveau hat Kruse nie gespielt.",
+    "duration": 3.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227237.mp3",
+    "text": "Honiara ist die Hauptstadt der Salomonen.",
+    "duration": 4.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227238.mp3",
+    "text": "Aber genau darum geht es doch.",
+    "duration": 3.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227239.mp3",
+    "text": "Das gibt es nur in Hattingen",
+    "duration": 3.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227250.mp3",
+    "text": "Gibt es einen Fachbegriff f\u00fcr diese Art von Sprachfehler?",
+    "duration": 4.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227251.mp3",
+    "text": "Auf dem Etikett kann ich keine N\u00e4hrwerttabelle finden.",
+    "duration": 5.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227252.mp3",
+    "text": "Albatrosse sind gut im Fliegen, aber schlecht im Starten und Landen.",
+    "duration": 5.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227253.mp3",
+    "text": "Haben Sie es schon mit Nachhilfe probiert?",
+    "duration": 4.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227254.mp3",
+    "text": "Das St\u00fcck ist rein instrumental.",
+    "duration": 3.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227261.mp3",
+    "text": "Nils, m\u00f6chtest du schwerh\u00f6rig werden, oder warum h\u00f6rst du so laut Musik?",
+    "duration": 4.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227262.mp3",
+    "text": "Nikolai, hast du ein Taschentuch f\u00fcr mich?",
+    "duration": 3.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227263.mp3",
+    "text": "Programm schlie\u00dfen.",
+    "duration": 3.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227264.mp3",
+    "text": "In den fetten Jahren muss man f\u00fcr die mageren vorsorgen.",
+    "duration": 4.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227265.mp3",
+    "text": "Nach einhundertsechzig Kilometern hatten wir einen Getriebeschaden.",
+    "duration": 5.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227266.mp3",
+    "text": "Wer glaubt, dass der Verfassungsschutz die Verfassung sch\u00fctzt, glaubt auch dass Babybrei aus Babys gemacht wird.",
+    "duration": 7.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227267.mp3",
+    "text": "Wie viel sind die Dinger wert?",
+    "duration": 3.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227268.mp3",
+    "text": "Damit solltet ihr gut f\u00fcr die Zukunft ger\u00fcstet sein.",
+    "duration": 4.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227269.mp3",
+    "text": "Das sagt meine Nichte auch immer.",
+    "duration": 3.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227270.mp3",
+    "text": "Genau wie der Mensch strecken sich auch viele andere S\u00e4ugetiere, wenn sie aufwachen.",
+    "duration": 5.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227283.mp3",
+    "text": "Er ist immer so charmant.",
+    "duration": 3.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227286.mp3",
+    "text": "Es gab mal Erw\u00e4gungen, die Bundesl\u00e4nder Bremen und Niedersachsen zusammenzulegen.",
+    "duration": 6.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227288.mp3",
+    "text": "Der Krach ist ja nicht auszuhalten.",
+    "duration": 3.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227289.mp3",
+    "text": "Wie viele Leute haben diese Nachricht gesehen?",
+    "duration": 4.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227290.mp3",
+    "text": "Tausende sind heute auf die Stra\u00dfe gegangen, um entweder f\u00fcr oder gegen die Homoehe zu demonstrieren.",
+    "duration": 7.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227296.mp3",
+    "text": "Hallo, m\u00f6chten Sie auch zur Sprechstunde?",
+    "duration": 3.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227297.mp3",
+    "text": "Wartet auf uns!, br\u00fcllte Christoph aus voller Kehle.",
+    "duration": 4.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227299.mp3",
+    "text": "H\u00e4lt dieser Zug auch am Hauptbahnhof?",
+    "duration": 3.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227300.mp3",
+    "text": "Tr\u00e4ger einer Atemschutzmaske m\u00fcssen spezielle gesundheitliche Voraussetzungen erf\u00fcllen.",
+    "duration": 6.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227302.mp3",
+    "text": "Deutsche Synchronsprecher werden oft zu Unrecht kritisiert.",
+    "duration": 4.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227306.mp3",
+    "text": "Zwischen H\u00f6chstadt-West und Erlangen-Ost brauchen Sie derzeit zwanzig Minuten l\u00e4nger.",
+    "duration": 6.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227307.mp3",
+    "text": "F\u00fcr ge\u00fcbte Radfahrer sind Strecken von \u00fcber hundert Kilometern am Tag keine Herausforderung.",
+    "duration": 6.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227308.mp3",
+    "text": "Aus Angst vor Stigmatisierung wollte Elke es nicht zugeben.",
+    "duration": 4.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227309.mp3",
+    "text": "Eine Gruppe von Sportlern war gerade dabei, Dehn\u00fcbungen zu machen.",
+    "duration": 4.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227310.mp3",
+    "text": "Die Feuerwehr ist ausger\u00fcckt, um mit Sands\u00e4cken den Deich zu verst\u00e4rken.",
+    "duration": 5.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227311.mp3",
+    "text": "Der Stecker vom Toaster steckt nicht.",
+    "duration": 3.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227312.mp3",
+    "text": "Eigentlich sollte der Bericht nie an die \u00d6ffentlichkeit gelangen.",
+    "duration": 4.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227313.mp3",
+    "text": "Erstaunlich viele Spender lesen ihre S\u00e4tze unter der Dusche.",
+    "duration": 4.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227314.mp3",
+    "text": "Du hast dies an einem einzigen Nachmittag gel\u00f6st?",
+    "duration": 3.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227315.mp3",
+    "text": "Die Armbrust kann nicht im Laufen nachgeladen werden.",
+    "duration": 3.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227341.mp3",
+    "text": "Friederike hatte das Fieberthermometer schon in der Hand.",
+    "duration": 4.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227342.mp3",
+    "text": "Asmara ist die Hauptstadt von Eritrea.",
+    "duration": 4.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227343.mp3",
+    "text": "Das interessiert mich nicht die Bohne.",
+    "duration": 2.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227344.mp3",
+    "text": "Bei uns ist das Alltag.",
+    "duration": 2.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227345.mp3",
+    "text": "Kaum zu glauben!",
+    "duration": 2.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227351.mp3",
+    "text": "Der Zug h\u00e4lt heute nicht in Waiblingen",
+    "duration": 3.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227352.mp3",
+    "text": "Andere zu rammen macht Spa\u00df, schadet aber auch Ihrem eigenen Fahrzeug.",
+    "duration": 4.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227353.mp3",
+    "text": "Erwin m\u00f6chte von Freitag auf Samstag bei Peer \u00fcbernachten.",
+    "duration": 4.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227354.mp3",
+    "text": "Also machten sich die Ermittler auf zum Leichenschauhaus.",
+    "duration": 4.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227355.mp3",
+    "text": "Ist die Ferienwohnung mit WLAN ausgestattet?",
+    "duration": 3.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227356.mp3",
+    "text": "Wo ist der Bus mit den Leuten, die das interessiert?",
+    "duration": 4.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227357.mp3",
+    "text": "Deshalb wurde er in den Zeugenstand gerufen.",
+    "duration": 3.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227358.mp3",
+    "text": "Notfalls kann man statt eines Nudelholzes auch eine Flasche nehmen.",
+    "duration": 4.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227359.mp3",
+    "text": "Vincent ist auch so ein Zocker.",
+    "duration": 3.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227360.mp3",
+    "text": "Das ist sehr ehrenwert, nickte Benny anerkennend.",
+    "duration": 4.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227366.mp3",
+    "text": "Die Zuschauer feiern die Kollegenwitze in den Kommentaren.",
+    "duration": 4.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227367.mp3",
+    "text": "Ihr K\u00f6ter hat mein Kind angefallen.",
+    "duration": 3.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227368.mp3",
+    "text": "Bist du schon mal nach Karlsruhe gelaufen?",
+    "duration": 3.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227369.mp3",
+    "text": "In meinen Augen ist Gustav vom Scheitel bis zur Sohle ein frommer Christ, urteilte Pastor Sigmund.",
+    "duration": 7.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227370.mp3",
+    "text": "Ein Bogensch\u00fctze hatte ihn bereits im Visier.",
+    "duration": 3.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227406.mp3",
+    "text": "Gestern zeigte das Barometer einen maximalen Ausschlag.",
+    "duration": 3.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227407.mp3",
+    "text": "Da dr\u00fcben liegen die Tanzmatten.",
+    "duration": 3.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227408.mp3",
+    "text": "Was ist auf der Einkaufsliste?",
+    "duration": 2.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227409.mp3",
+    "text": "Niamey ist die Hauptstadt von Niger.",
+    "duration": 3.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227410.mp3",
+    "text": "Die Verletzungen sind nicht lebensgef\u00e4hrlich.",
+    "duration": 3.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227416.mp3",
+    "text": "Als es mir schlecht ging, war Stefan immer f\u00fcr mich da.",
+    "duration": 3.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227417.mp3",
+    "text": "Gibt es Stau heute morgen?",
+    "duration": 3.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227418.mp3",
+    "text": "Ich kann mich nicht einloggen, wendet sich Kai an den Administrator.",
+    "duration": 4.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227419.mp3",
+    "text": "Kampala ist die Hauptstadt von Uganda.",
+    "duration": 3.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227420.mp3",
+    "text": "Auf Ergonomie wurde dabei nicht geachtet.",
+    "duration": 3.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227426.mp3",
+    "text": "Fast ein F\u00fcnftel der Bev\u00f6lkerung ist offline-s\u00fcchtig.",
+    "duration": 4.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227427.mp3",
+    "text": "Schau mir in die Augen!",
+    "duration": 2.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227428.mp3",
+    "text": "Einige der Kacheln im Badezimmer l\u00f6sen sich bereits.",
+    "duration": 4.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227429.mp3",
+    "text": "Urspr\u00fcnglich aus Mangel an Konkurrenz eingestellt, hat sich Lydia als wahre Perle herausgestellt.",
+    "duration": 6.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227430.mp3",
+    "text": "Es sieht voll unheimlich aus, wenn du den Augapfel so weit drehst.",
+    "duration": 4.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227431.mp3",
+    "text": "Sie findet das super.",
+    "duration": 1.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227432.mp3",
+    "text": "Medikamente, die ins Abwasser gelangen, sind ein Problem f\u00fcr die Umwelt.",
+    "duration": 4.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227433.mp3",
+    "text": "Alle anderen verlassen sich darauf.",
+    "duration": 3.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227434.mp3",
+    "text": "Seit Gerda gegangen ist, f\u00fchlt Uwe sich einsam.",
+    "duration": 3.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227435.mp3",
+    "text": "Und ab geht die Post!",
+    "duration": 2.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227436.mp3",
+    "text": "Bist du auf Di\u00e4t?",
+    "duration": 2.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227437.mp3",
+    "text": "Prophylaxe ist besser als die Bek\u00e4mpfung von Symptomen, finden sie.",
+    "duration": 4.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227438.mp3",
+    "text": "Das AKW Grafenrheinfeld ist ein Druckwasserreaktor.",
+    "duration": 4.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227439.mp3",
+    "text": "Mach mal hinne!",
+    "duration": 2.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227440.mp3",
+    "text": "Die Entropie ist also wesentlich geringer als die Kodierungsl\u00e4nge.",
+    "duration": 4.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227441.mp3",
+    "text": "Die Paketverwaltung hat eine zyklische Abh\u00e4ngigkeit entdeckt.",
+    "duration": 4.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227442.mp3",
+    "text": "Das ist kein echtes Vanille, sondern Vanillin.",
+    "duration": 3.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227443.mp3",
+    "text": "Insbesondere keine Topflappen.",
+    "duration": 3.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227444.mp3",
+    "text": "Es ist eine perfide, aber effektive Strategie.",
+    "duration": 3.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227445.mp3",
+    "text": "S\u00e3o Tom\u00e9 ist die Hauptstadt von S\u00e3o Tom\u00e9 und Pr\u00edncipe.",
+    "duration": 5.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227461.mp3",
+    "text": "Vielerorts gibt es mehr Sonne als hier.",
+    "duration": 2.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227462.mp3",
+    "text": "Das hei\u00dft, die Schnittmenge ist die leere Menge.",
+    "duration": 3.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227463.mp3",
+    "text": "Babylon war als die Hauptstadt Babyloniens eine der wichtigsten St\u00e4dte des Altertums.",
+    "duration": 5.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227464.mp3",
+    "text": "Steffen zeigt sich flexibel.",
+    "duration": 2.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227465.mp3",
+    "text": "Den Chemietest hat Marcel total verkorkst.",
+    "duration": 3.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227486.mp3",
+    "text": "Etwa um eins waren alle Mann versammelt.",
+    "duration": 3.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227487.mp3",
+    "text": "Gegen Mittag muss der Frachter mit einer Nussschale kollidiert sein.",
+    "duration": 4.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227488.mp3",
+    "text": "Ein Steg aus Holz f\u00fchrt vom Ufer ins Wasser.",
+    "duration": 3.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227489.mp3",
+    "text": "Die Eisenbahnstra\u00dfe in Leipzig ist ber\u00fcchtigt.",
+    "duration": 3.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227490.mp3",
+    "text": "Suche Z\u00fcge nach Hamburg, die morgen um f\u00fcnfzehn Uhr abfahren.",
+    "duration": 4.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227492.mp3",
+    "text": "Nimm deine Flossen da weg!",
+    "duration": 2.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227493.mp3",
+    "text": "Ihr seid alle eingeladen, verk\u00fcndete Ralf mit einem L\u00e4cheln.",
+    "duration": 3.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227494.mp3",
+    "text": "Eine Lenkradheizung ist im Winter wirklich angenehm, wenn man keine Handschuhe dabei hat.",
+    "duration": 5.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227501.mp3",
+    "text": "Der Hund lie\u00df sich streicheln.",
+    "duration": 2.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227502.mp3",
+    "text": "Fahre einfach Richtung D\u00fcsseldorf",
+    "duration": 2.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227503.mp3",
+    "text": "Dar\u00fcber muss ich in Ruhe nachdenken.",
+    "duration": 2.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227504.mp3",
+    "text": "Hier ist meine Wunschliste.",
+    "duration": 2.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227505.mp3",
+    "text": "Zwischen der theoretischen Vorhersage und dem experimentellen Nachweis von Gravitationswellen vergingen etwa hundert Jahre.",
+    "duration": 8.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227506.mp3",
+    "text": "Als Therapie gegen das Stottern hat die \u00c4rztin Manuel empfohlen zu singen.",
+    "duration": 4.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227507.mp3",
+    "text": "Die Betonung liegt auf sofort.",
+    "duration": 3.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227509.mp3",
+    "text": "Nuku\u02bbalofa ist die Hauptstadt von Tonga.",
+    "duration": 3.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227510.mp3",
+    "text": "Komm doch zu mir unter den Regenschirm.",
+    "duration": 2.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227511.mp3",
+    "text": "Danke nein, ich bin Veganer.",
+    "duration": 2.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227521.mp3",
+    "text": "Das Insektensterben ist schlecht f\u00fcr die Landwirtschaft.",
+    "duration": 3.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227522.mp3",
+    "text": "Wenn alle das gleiche schreien, ist stets Vorsicht geboten.",
+    "duration": 3.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227523.mp3",
+    "text": "Radionuklidbatterien sind f\u00fcr Jahrzehnte zuverl\u00e4ssige Energiequellen.",
+    "duration": 4.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227524.mp3",
+    "text": "Um diese Zeit sind die L\u00e4den einfach zu voll.",
+    "duration": 3.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227525.mp3",
+    "text": "Zu den Aufgaben eines Trainers geh\u00f6rt auch, der Mannschaft Disziplin beizubringen.",
+    "duration": 4.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227531.mp3",
+    "text": "Wir treffen uns mit Flori an der Bushaltestelle.",
+    "duration": 3.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227532.mp3",
+    "text": "Wenn dir langweilig ist, kannst du mal in den Garten gehen und Johannisbeeren pfl\u00fccken.",
+    "duration": 5.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227533.mp3",
+    "text": "Wenn ein Tandemfahrer schon lenken muss, ist der andere f\u00fcrs Treten zust\u00e4ndig.",
+    "duration": 5.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227535.mp3",
+    "text": "Was haben wir in der Speisekammer?",
+    "duration": 2.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227546.mp3",
+    "text": "Im Gewerbegebiet wurde jetzt eine Kartbahn neu er\u00f6ffnet.",
+    "duration": 3.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227547.mp3",
+    "text": "Servus!",
+    "duration": 1.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227548.mp3",
+    "text": "Malte wirkt im Unterricht oft abgelenkt.",
+    "duration": 3.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227549.mp3",
+    "text": "Sein Ferrari hat Fl\u00fcgelt\u00fcren.",
+    "duration": 3.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227550.mp3",
+    "text": "Durch die Fortschritte der Medizin und die Alterung der Gesellschaft steigt der Bedarf immer weiter.",
+    "duration": 6.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227556.mp3",
+    "text": "Du h\u00e4ttest dein Gesicht sehen sollen!",
+    "duration": 2.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227557.mp3",
+    "text": "Wie alt bist du?",
+    "duration": 2.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227558.mp3",
+    "text": "Frau Hoppe f\u00fchlt sich ausgelaugt und l\u00e4sst sich daher eine Massage geben.",
+    "duration": 4.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227559.mp3",
+    "text": "Nein, die Kufen sind aus massivem Edelstahl.",
+    "duration": 3.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227560.mp3",
+    "text": "Die vier gr\u00f6\u00dften St\u00e4dte Chinas sind Shanghai, Peking, Guangzhou und Shenzhen.",
+    "duration": 6.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227576.mp3",
+    "text": "Raus mit der Sprache, wo versteckt sie sich?",
+    "duration": 3.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227577.mp3",
+    "text": "Erst jetzt wurde ihr klar, wie wertvoll das Geschenk von Henrik eigentlich gewesen war.",
+    "duration": 5.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227578.mp3",
+    "text": "Welch ein haarstr\u00e4ubender Fehler!",
+    "duration": 3.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227579.mp3",
+    "text": "Asche auf mein Haupt!",
+    "duration": 2.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227580.mp3",
+    "text": "Na toll!",
+    "duration": 2.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227591.mp3",
+    "text": "Wo ist die dazugeh\u00f6rige \u00d6se?",
+    "duration": 2.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227592.mp3",
+    "text": "Daf\u00fcr nimm mal lieber diesen Gummihammer.",
+    "duration": 3.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227593.mp3",
+    "text": "Ist sie nicht h\u00fcbsch?",
+    "duration": 2.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227594.mp3",
+    "text": "Der Wicht zitterte an allen Gliedern.",
+    "duration": 3.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227595.mp3",
+    "text": "Der Konflikt war doch vorprogrammiert.",
+    "duration": 3.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227596.mp3",
+    "text": "Den wievielten haben wir heute?, wollte Gerrit wissen.",
+    "duration": 4.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227597.mp3",
+    "text": "Der M\u00fcll zieht die Nager an wie das Licht die Motten.",
+    "duration": 4.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227598.mp3",
+    "text": "Schwamm dr\u00fcber.",
+    "duration": 2.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227600.mp3",
+    "text": "Dies l\u00e4sst sich am einfachsten an einem Beispiel erkl\u00e4ren.",
+    "duration": 3.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227601.mp3",
+    "text": "Bruno steht auf Country-Musik.",
+    "duration": 3.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227616.mp3",
+    "text": "Die Stelle ist stark angeschwollen.",
+    "duration": 2.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227617.mp3",
+    "text": "K\u00f6nnte ich bitte ein St\u00fcck Brot haben?",
+    "duration": 2.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227618.mp3",
+    "text": "Planfeststellungsverfahren ist doch ein wunderbares deutsches Wort.",
+    "duration": 4.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227619.mp3",
+    "text": "Wegen des Kopierschutzes lie\u00df sich die Blu-ray nicht abspielen.",
+    "duration": 4.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227620.mp3",
+    "text": "Was kann man gegen Hystereseverluste tun?",
+    "duration": 3.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227641.mp3",
+    "text": "Mikrobiologen werden die Drainage genauer unter die Lupe nehmen.",
+    "duration": 3.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227642.mp3",
+    "text": "Es ist ungeheuerlich, wie schnell Birgit neue Kontakte kn\u00fcpft.",
+    "duration": 3.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227643.mp3",
+    "text": "Satz mit X, das war wohl nix.",
+    "duration": 3.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227644.mp3",
+    "text": "W\u00e4hrend seines Vortrages verschr\u00e4nkte er die Arme, was einen unprofessionellen Eindruck machte.",
+    "duration": 7.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18227645.mp3",
+    "text": "Man kann es nicht allen recht machen.",
+    "duration": 3.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17551972.mp3",
+    "text": "Kanal wechseln!",
+    "duration": 3.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17551973.mp3",
+    "text": "Kann man von M\u00fcnchen bis Jena laufen?",
+    "duration": 4.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17551974.mp3",
+    "text": "Die alte Klapperkiste?",
+    "duration": 3.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17551975.mp3",
+    "text": "Kannst du das?",
+    "duration": 2.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17551976.mp3",
+    "text": "Du bist der einzige, der mir jetzt noch helfen kann.",
+    "duration": 3.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17551977.mp3",
+    "text": "Viele Staatsgrenzen in Afrika und den Vereinigten Staaten sind wie mit dem Lineal gezogen.",
+    "duration": 7.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17551978.mp3",
+    "text": "Die \u00c4rmste!",
+    "duration": 2.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17551979.mp3",
+    "text": "Gernot ist ein wahrer \u00dcberlebensk\u00fcnstler.",
+    "duration": 3.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17551980.mp3",
+    "text": "Kennst du Cheats f\u00fcr dieses Spiel?",
+    "duration": 2.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17551981.mp3",
+    "text": "Niemand wird gezwungen.",
+    "duration": 3.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17551982.mp3",
+    "text": "Bei dem Zusammensto\u00df hat sich J\u00fcrgen die Schulter ausgekugelt.",
+    "duration": 5.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17551983.mp3",
+    "text": "M\u00fcssen die blauen Module auch belegt werden?, will Eva wissen.",
+    "duration": 4.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17551984.mp3",
+    "text": "Hinter dem K\u00fchlschrank muss etwas Platz sein, damit die Luft zirkulieren kann.",
+    "duration": 5.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17551985.mp3",
+    "text": "Er hat gerade wieder so eine melancholische Phase.",
+    "duration": 4.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17551986.mp3",
+    "text": "Und Nora bekommt noch ein paar K\u00fcsse f\u00fcr ihre poetischen Erg\u00fcsse.",
+    "duration": 5.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17551987.mp3",
+    "text": "Meine Mutter anrufen.",
+    "duration": 3.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17551988.mp3",
+    "text": "Das M\u00e4del hat Talent.",
+    "duration": 2.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17551989.mp3",
+    "text": "Dabei handelt es sich um ein Verfahren zur Kalibrierung der intrinsischen Kameraparameter.",
+    "duration": 6.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17551990.mp3",
+    "text": "Au\u00dferdem klang der Alarm irgendwie nach \u2026 Wecker!",
+    "duration": 4.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17551992.mp3",
+    "text": "Was haben wir im K\u00fchlschrank?",
+    "duration": 2.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17551993.mp3",
+    "text": "Ich kenne Klaas aber nur fl\u00fcchtig, schr\u00e4nkte Tobias sogleich ein.",
+    "duration": 5.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17551994.mp3",
+    "text": "Sie m\u00f6chte nach N\u00fcrnberg fahren",
+    "duration": 2.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17551995.mp3",
+    "text": "Diese Kneipe ist wirklich legend\u00e4r, schw\u00e4rmt Claudia.",
+    "duration": 4.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17551996.mp3",
+    "text": "Konstantin ist schon mit Konrad verabredet.",
+    "duration": 3.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17552002.mp3",
+    "text": "Schneebericht f\u00fcr Sankt Anton anzeigen.",
+    "duration": 2.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17552003.mp3",
+    "text": "Trotz Krise sind wir immer noch unangefochtener Marktf\u00fchrer.",
+    "duration": 4.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17552004.mp3",
+    "text": "Da muss man immer umlernen.",
+    "duration": 2.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17552005.mp3",
+    "text": "Was w\u00fcrde Jesus tun?",
+    "duration": 2.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17552006.mp3",
+    "text": "Hast du auch solche Schmetterlinge im Bauch?",
+    "duration": 3.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17552012.mp3",
+    "text": "Mit ausgetrockneten Schleimh\u00e4uten ist man anf\u00e4lliger gegen\u00fcber Infektionen.",
+    "duration": 6.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17552013.mp3",
+    "text": "Der Lehrstuhl sucht noch einen Hiwi, der die Hausaufgaben der Erstis kontrolliert.",
+    "duration": 6.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17552014.mp3",
+    "text": "Wie ist das Wetter in Greifswald?",
+    "duration": 3.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17552015.mp3",
+    "text": "Der Befehl ist von Oberst Baumann genehmigt.",
+    "duration": 3.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17552016.mp3",
+    "text": "Das muss im Zuge der Rettungsaktion passiert sein.",
+    "duration": 3.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17552017.mp3",
+    "text": "Wer z\u00fcndet mitten im Sommer den Kamin an?",
+    "duration": 3.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17552018.mp3",
+    "text": "In der Cafeteria habe ich Amanda getroffen.",
+    "duration": 3.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17552019.mp3",
+    "text": "Wieso ist das Blatt nicht gelocht?",
+    "duration": 3.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17552020.mp3",
+    "text": "Was hei\u00dft das auf Luxemburgisch?",
+    "duration": 3.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17552021.mp3",
+    "text": "Von au\u00dfen angeklebtes Styropor ist eine minderwertige Form der Geb\u00e4uded\u00e4mmung.",
+    "duration": 6.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17552027.mp3",
+    "text": "Immer, wenn der W\u00e4rter das H\u00e4uschen betritt, hebt er die Fu\u00dfmatte an.",
+    "duration": 5.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17552028.mp3",
+    "text": "Der Ofen sollte eine Umluftfunktion haben.",
+    "duration": 4.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17552030.mp3",
+    "text": "Dieses diabolische Grinsen sagt alles.",
+    "duration": 3.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17552031.mp3",
+    "text": "Dabei gehe ich immer ganz gerne chronologisch vor.",
+    "duration": 3.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17552032.mp3",
+    "text": "Fremdsprachenkenntnisse sind in dem Fall Trumpf.",
+    "duration": 4.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17552033.mp3",
+    "text": "Jetzt rollen wir den Teig mit einem Nudelholz aus.",
+    "duration": 4.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17552034.mp3",
+    "text": "W\u00f6rterbuch \u00f6ffnen!",
+    "duration": 2.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17552035.mp3",
+    "text": "Die meisten Keime werden im Magen durch die S\u00e4ure abget\u00f6tet.",
+    "duration": 4.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17552036.mp3",
+    "text": "Ah!, st\u00f6hnte er und schlug auf das l\u00e4rmende Ger\u00e4t neben seinem Bett.",
+    "duration": 6.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17558587.mp3",
+    "text": "Suche Z\u00fcge nach Freiburg im Breisgau.",
+    "duration": 3.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17558588.mp3",
+    "text": "Solltest du mal in Schwerin sein, kannst du gerne vorbeikommen.",
+    "duration": 4.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17558589.mp3",
+    "text": "Der L\u00fcfter von deinem Notebook w\u00e4re mir zu unruhig.",
+    "duration": 4.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17558590.mp3",
+    "text": "Gut Ding will Weile haben, beschwichtigte Edmund.",
+    "duration": 3.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17558591.mp3",
+    "text": "Sie h\u00fcten das Geheimnis wie ihren eigenen Augapfel.",
+    "duration": 4.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17558592.mp3",
+    "text": "Lehnen Sie sich nicht \u00fcber die Schranke!",
+    "duration": 3.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17558593.mp3",
+    "text": "Solche Machos kennt Cassandra nur zu gut.",
+    "duration": 3.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17558594.mp3",
+    "text": "Wer im Steinhaus lebt, sollte nicht mit Gl\u00e4sern werfen.",
+    "duration": 5.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17558595.mp3",
+    "text": "Bochum ist der Ausgangspunkt.",
+    "duration": 3.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17558596.mp3",
+    "text": "Man hat mir gesagt, dass ich noch an meiner Aussprache arbeiten muss.",
+    "duration": 4.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17558597.mp3",
+    "text": "Gemeinsam rissen wir das Paket auf.",
+    "duration": 3.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17558598.mp3",
+    "text": "Wenn man Hydranten umf\u00e4hrt, gibt es so sch\u00f6ne Wasserfont\u00e4nen.",
+    "duration": 5.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17558599.mp3",
+    "text": "Wahrscheinlich w\u00e4re es eher unverst\u00e4ndliches Gebrabbel.",
+    "duration": 4.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17558600.mp3",
+    "text": "Wenn es besonders sch\u00f6n werden soll, garniert man es noch mit bunten Streuseln.",
+    "duration": 6.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17558601.mp3",
+    "text": "Dennis verdient f\u00fcnfundsiebzig Euro pro verkauftem Gramm.",
+    "duration": 4.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17558603.mp3",
+    "text": "Beim un\u00fcberwachten Lernen spart man sich die separate Trainingsphase.",
+    "duration": 5.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17558604.mp3",
+    "text": "Es ist bewundernswert, wie Alexander so sprechen kann, dass es sich wie franz\u00f6sisch anh\u00f6rt, ohne dass er franz\u00f6sisch spricht.",
+    "duration": 8.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17558605.mp3",
+    "text": "Unf\u00e4lle passieren nicht einfach so, sie haben Ursachen.",
+    "duration": 4.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17558606.mp3",
+    "text": "Was hei\u00dft das auf R\u00e4toromanisch?",
+    "duration": 3.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17558607.mp3",
+    "text": "Suche Z\u00fcge nach Freiburg im Breisgau, die morgen um sechs Uhr abfahren.",
+    "duration": 5.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17558608.mp3",
+    "text": "Warum sind Eier oval und nicht kugelf\u00f6rmig?",
+    "duration": 3.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17558609.mp3",
+    "text": "Gerrit erinnerte sich daran, dass er einst einen Eid geschworen hatte.",
+    "duration": 5.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17558611.mp3",
+    "text": "Diese Behauptung musst du besser belegen.",
+    "duration": 2.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17558612.mp3",
+    "text": "Der Nebel war so dicht, dass Steven seine eigenen H\u00e4nde kaum noch sehen konnte.",
+    "duration": 5.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17558613.mp3",
+    "text": "Jetzt wollen wir die Kirche aber mal im Dorf lassen.",
+    "duration": 3.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17558615.mp3",
+    "text": "Wenn es aus der Zeichnung nicht hervorgeht, nimm ein Multimeter und miss selbst nach.",
+    "duration": 6.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17558617.mp3",
+    "text": "Maximilian ist im Grunde ihrer Willk\u00fcr ausgesetzt.",
+    "duration": 4.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17558618.mp3",
+    "text": "Und einmal haben sie mich schon erwischt mit zwei Promille.",
+    "duration": 3.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17558619.mp3",
+    "text": "Theo wollte kuscheln, aber Frida wies ihn ab.",
+    "duration": 4.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17558620.mp3",
+    "text": "Was hei\u00dft das auf Kroatisch?",
+    "duration": 2.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17558621.mp3",
+    "text": "Jetzt ringen die Geschiedenen um das Sorgerecht f\u00fcr die gemeinsamen Kinder.",
+    "duration": 5.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17558622.mp3",
+    "text": "Nur weil es beim Nachbarn brennt, sollte man nicht die Rauchentwicklung in der eigenen K\u00fcche ignorieren.",
+    "duration": 6.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17558623.mp3",
+    "text": "Hat Bayreuth einen Bahnhof?",
+    "duration": 2.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17558624.mp3",
+    "text": "In so einer sch\u00e4bigen Klitsche w\u00fcrde ich meinen Rechner nicht abgeben.",
+    "duration": 5.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17558625.mp3",
+    "text": "In ihrer Verzweiflung gab sie ihr Kind in der Babyklappe ab.",
+    "duration": 5.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17558626.mp3",
+    "text": "Kann man das noch als korrekt durchgehen lassen?",
+    "duration": 3.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17558627.mp3",
+    "text": "Was kommt heute im Fernsehen?",
+    "duration": 2.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17558628.mp3",
+    "text": "In dieser Physikstunde habe ich nichts verstanden.",
+    "duration": 4.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17558629.mp3",
+    "text": "Er ist mein Verlobter.",
+    "duration": 2.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17558630.mp3",
+    "text": "Die Stra\u00dfe gleicht einem Flickenteppich.",
+    "duration": 3.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17558631.mp3",
+    "text": "Das ist doch alles nur ein Missverst\u00e4ndnis.",
+    "duration": 2.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17558632.mp3",
+    "text": "Stolz zeigt Winfried seine Urkunde.",
+    "duration": 3.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17558633.mp3",
+    "text": "Die Jalousien haben sich hier verheddert.",
+    "duration": 3.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17558634.mp3",
+    "text": "Das geht auf keine Kuhhaut.",
+    "duration": 3.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17558635.mp3",
+    "text": "In Wirklichkeit ist es nat\u00fcrlich nur das Blut, das durch die Adern str\u00f6mt.",
+    "duration": 5.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17558636.mp3",
+    "text": "Regnet es heute in Hildesheim?",
+    "duration": 2.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17562195.mp3",
+    "text": "Wenn selbst die Feuerwehr den Umzug begleitet, kann wirklich nichts passieren.",
+    "duration": 4.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17562196.mp3",
+    "text": "Benjamin ist halt ein Bodybuilder.",
+    "duration": 3.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17562198.mp3",
+    "text": "Die Inschrift kennzeichnet die Herkunft.",
+    "duration": 3.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17562199.mp3",
+    "text": "Ich habe da mal was vorbereitet.",
+    "duration": 2.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17562200.mp3",
+    "text": "Sara spricht Klingonisch.",
+    "duration": 2.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17562321.mp3",
+    "text": "Grundlagenforschung ist wichtig.",
+    "duration": 2.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17562322.mp3",
+    "text": "Sina verkroch sich in die Puppenecke.",
+    "duration": 3.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17562323.mp3",
+    "text": "Wie weit ist es von Neum\u00fcnster bis nach Hamburg?",
+    "duration": 3.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17562324.mp3",
+    "text": "Kein Grund, gleich handgreiflich zu werden!",
+    "duration": 2.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17562325.mp3",
+    "text": "Das kann ich so nicht best\u00e4tigen.",
+    "duration": 2.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17571273.mp3",
+    "text": "Ein boshaftes Lachen erschallte.",
+    "duration": 2.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17571274.mp3",
+    "text": "Magnesium brennt auch unter Wasser.",
+    "duration": 2.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17571275.mp3",
+    "text": "Twitter-Feed anzeigen!",
+    "duration": 1.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17571276.mp3",
+    "text": "Die Elbe flie\u00dft durch Dresden, Magdeburg und Hamburg und m\u00fcndet in die Nordsee",
+    "duration": 5.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17571277.mp3",
+    "text": "Der Beh\u00e4lter k\u00f6nnte unter dem Druck zerbersten.",
+    "duration": 3.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17571278.mp3",
+    "text": "Darf ich Ihnen meine Tochter vorstellen?",
+    "duration": 2.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17571279.mp3",
+    "text": "Alwin, Nadja und Andrea spielen Verstecken.",
+    "duration": 3.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17571280.mp3",
+    "text": "Helge glaubt auch an solche Verschw\u00f6rungstheorien.",
+    "duration": 3.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17571281.mp3",
+    "text": "Ohne Geh\u00f6rschutz bei der Arbeit w\u00e4re Klaus wohl nach zwei Wochen taub.",
+    "duration": 5.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17571282.mp3",
+    "text": "E-Mails \u00f6ffnen.",
+    "duration": 1.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17571283.mp3",
+    "text": "Scherben bringen Gl\u00fcck.",
+    "duration": 2.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17571284.mp3",
+    "text": "Ich glaube, ich habe mich klar genug ausgedr\u00fcckt.",
+    "duration": 3.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17571285.mp3",
+    "text": "Christiane ist jetzt bereits zwei mal durch die Mathepr\u00fcfung gefallen.",
+    "duration": 5.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17571286.mp3",
+    "text": "Es w\u00e4re f\u00fcr alle hilfreich, wenn wir weniger emotional an das Thema herangingen.",
+    "duration": 5.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17571287.mp3",
+    "text": "Der Zug ist l\u00e4ngst abgefahren.",
+    "duration": 2.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17571298.mp3",
+    "text": "Die Aufgabe ist ziemlich schwierig, gell?, versuchte Kai ein Gespr\u00e4ch mit Helena aufzubauen.",
+    "duration": 5.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17571299.mp3",
+    "text": "Die Zeit vergeht wie im Fluge, stellte Jasmin fest.",
+    "duration": 4.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17571300.mp3",
+    "text": "Vergessen Sie es, ich bin nicht bestechlich.",
+    "duration": 2.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17571301.mp3",
+    "text": "Die Feste wurden durch eine Steuer finanziert.",
+    "duration": 3.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17571302.mp3",
+    "text": "Grunds\u00e4tzlich unterscheiden wir zwischen dem indirekten und dem induktiven Beweis.",
+    "duration": 5.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17571303.mp3",
+    "text": "Sein Sichtapparat ist auf gro\u00dfe Entfernungen trainiert.",
+    "duration": 3.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17571304.mp3",
+    "text": "Es gibt zwanzig Prozent Rabatt auf Tiernahrung.",
+    "duration": 3.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17571305.mp3",
+    "text": "Im Prinzip schon, aber die Auspr\u00e4gung ist individuell unterschiedlich.",
+    "duration": 4.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17571306.mp3",
+    "text": "Manchmal hat Niko epileptische Anf\u00e4lle.",
+    "duration": 3.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17571307.mp3",
+    "text": "Ngerulmud ist die Hauptstadt von Palau.",
+    "duration": 3.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17571308.mp3",
+    "text": "Seit der Reparatur des Autos tritt das Problem nicht mehr auf.",
+    "duration": 4.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17571309.mp3",
+    "text": "Auch die Stahltr\u00e4ger sind nicht f\u00fcr die Ewigkeit gebaut.",
+    "duration": 4.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17571310.mp3",
+    "text": "Au\u00dferdem m\u00f6chte ich Sie noch auf unser Bordrestaurant in Wagen vier aufmerksam machen.",
+    "duration": 5.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17571311.mp3",
+    "text": "Der Regen prasselte auf das Zelt und erzeugte eine einzigartige Atmosph\u00e4re im Innern.",
+    "duration": 5.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17571312.mp3",
+    "text": "Wenn dein Gro\u00dfvater das w\u00fcsste, w\u00fcrde er sich im Grab umdrehen!",
+    "duration": 4.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17571353.mp3",
+    "text": "In der Redaktion sind alle damit besch\u00e4ftigt, die n\u00e4chste Sensation zu jagen.",
+    "duration": 5.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17571354.mp3",
+    "text": "Event erstellen.",
+    "duration": 2.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17571355.mp3",
+    "text": "F\u00fcr jede Farbe hat Tina einen Buntstift, nur einer in beige fehlt.",
+    "duration": 4.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17571356.mp3",
+    "text": "Bevor man \u00fcber statistische Trends spricht, sollte man sich unbedingt den Unterschied zwischen Prozenten und Prozentpunkten klarmachen.",
+    "duration": 8.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17571357.mp3",
+    "text": "Ich denke das Risiko k\u00f6nnen wir in Kauf nehmen, urteilte Ulrike.",
+    "duration": 4.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17571358.mp3",
+    "text": "Die Holzt\u00fcr des Gartenhauses hatte sich von der K\u00e4lte verzogen und war deshalb kaum aufzubekommen.",
+    "duration": 7.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17571359.mp3",
+    "text": "Habe ich noch Joghurt?",
+    "duration": 2.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17571360.mp3",
+    "text": "Welches ist das beste Restaurant in Speyer?",
+    "duration": 2.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17571361.mp3",
+    "text": "Die Kollision mit der Fensterscheibe hat meist schwere Verletzungen zur Folge.",
+    "duration": 5.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17571362.mp3",
+    "text": "Er erledigt seinen Job, ohne Fragen zu stellen.",
+    "duration": 3.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17584711.mp3",
+    "text": "Wolfgang glaubt nicht mehr an Gott.",
+    "duration": 2.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17584712.mp3",
+    "text": "Aus etwas Pappe k\u00f6nnt ihr euch das auch selber basteln.",
+    "duration": 3.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17584713.mp3",
+    "text": "Technisch ist das Game in einem mangelhaften Zustand.",
+    "duration": 3.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17584714.mp3",
+    "text": "Vorsicht, hier gibt es Sporen.",
+    "duration": 3.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17584715.mp3",
+    "text": "Aus Langeweile checkt B\u00e4rbel noch einmal, ob es neue Mitteilungen f\u00fcr sie gibt.",
+    "duration": 5.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17584741.mp3",
+    "text": "Ein Schaf ist tr\u00e4chtig und deshalb nicht schnell genug, um zu fl\u00fcchten.",
+    "duration": 5.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17584742.mp3",
+    "text": "Es stinkt nach G\u00fclle.",
+    "duration": 2.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17584743.mp3",
+    "text": "Dieses Problem kann gel\u00f6st werden.",
+    "duration": 2.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17584745.mp3",
+    "text": "Karina meint, dass sich die Misere noch weiter fortsetzen wird.",
+    "duration": 3.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17584751.mp3",
+    "text": "Um sich zu merken, ob Steuerbord oder Backbord rechts ist, gibt es eine Eselsbr\u00fccke.",
+    "duration": 5.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17584752.mp3",
+    "text": "In welchen Schrank kommen die Teller?",
+    "duration": 2.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17584753.mp3",
+    "text": "Wie weit ist es von Braunschweig bis nach Herne?",
+    "duration": 3.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17584754.mp3",
+    "text": "Der Unterschied zwischen Tomographie und Projektion l\u00e4sst sich am einfachsten grafisch erkl\u00e4ren.",
+    "duration": 6.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17584755.mp3",
+    "text": "Oma Gertrud schielte vorsichtig durch den T\u00fcrspion.",
+    "duration": 3.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17584756.mp3",
+    "text": "Wenn meine Gro\u00dfeltern sich miteinander unterhalten, schnacken sie platt, berichtet Gerhard.",
+    "duration": 4.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17584757.mp3",
+    "text": "Tabea setzte zum Endspurt an.",
+    "duration": 2.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17584758.mp3",
+    "text": "Alina ist immer so perfektionistisch.",
+    "duration": 2.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17584759.mp3",
+    "text": "Das ist kein Genuss sondern Kampftrinken!",
+    "duration": 3.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17584760.mp3",
+    "text": "Der Doktor diagnostizierte eine Blasenentz\u00fcndung.",
+    "duration": 3.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17584761.mp3",
+    "text": "Erz\u00e4hl es der Parkuhr, aber lass mich in Ruhe.",
+    "duration": 3.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17584762.mp3",
+    "text": "Kann man von Essen bis Dortmund laufen?",
+    "duration": 2.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17584763.mp3",
+    "text": "Wer nach Rheinland-Pfalz zieht, ist selbst schuld, wenn er den Stra\u00dfenkarneval aushalten muss.",
+    "duration": 5.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17584764.mp3",
+    "text": "Das hilft auch beim Einschlafen.",
+    "duration": 3.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17584765.mp3",
+    "text": "Ich schw\u00f6re, damit habe ich nichts zu tun.",
+    "duration": 2.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17584766.mp3",
+    "text": "Das Hauptquartier der Firma befindet sich in Karlsruhe",
+    "duration": 3.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17584767.mp3",
+    "text": "Ist der dritte Teil auch so sehenswert wie die ersten zwei?",
+    "duration": 3.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17584768.mp3",
+    "text": "Sehen ist ein passiver Vorgang.",
+    "duration": 2.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17584769.mp3",
+    "text": "Inge setzte wieder ihr Pokerface auf.",
+    "duration": 3.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17584770.mp3",
+    "text": "Wir werden alle sterben!",
+    "duration": 1.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17584796.mp3",
+    "text": "Ich will ein Kind von dir!",
+    "duration": 1.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17584797.mp3",
+    "text": "Valentin hat das Handtuch geworfen.",
+    "duration": 3.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17584798.mp3",
+    "text": "Zum Schluss wird alles mit geriebenem K\u00e4se bestreut.",
+    "duration": 3.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17584799.mp3",
+    "text": "Das Gewebe ist von Kunstfasern durchzogen.",
+    "duration": 3.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17584800.mp3",
+    "text": "Wie war's in Amsterdam?",
+    "duration": 1.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17584818.mp3",
+    "text": "Meine Erinnerung daran ist schon sehr verblasst.",
+    "duration": 2.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17584819.mp3",
+    "text": "Man sollte nichts auf dem Herd ablegen, was nicht hitzebest\u00e4ndig ist.",
+    "duration": 4.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17584820.mp3",
+    "text": "Suva ist die Hauptstadt von Fidschi.",
+    "duration": 3.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17584821.mp3",
+    "text": "Das Wasser spritzt so sch\u00f6n in alle Richtungen.",
+    "duration": 2.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17584837.mp3",
+    "text": "Dieses Geb\u00e4ude war \u00fcber Jahrzehnte die Zentrale des illegalen Imperiums.",
+    "duration": 4.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17584838.mp3",
+    "text": "Die Weihnachtsgeschichte beginnt mit einer Volksz\u00e4hlung.",
+    "duration": 3.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17584839.mp3",
+    "text": "Kann mich jemand h\u00f6ren?, sprach er in sein Funkger\u00e4t.",
+    "duration": 3.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17584840.mp3",
+    "text": "Auf dem Weg haben wir einen Konvoi der Bundeswehr aus f\u00fcnfzehn Fahrzeugen \u00fcberholt.",
+    "duration": 5.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17584841.mp3",
+    "text": "Im Kamin lodert ein Feuer.",
+    "duration": 2.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17584847.mp3",
+    "text": "Jemand muss den Schornsteinfeger hereinlassen.",
+    "duration": 2.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17584848.mp3",
+    "text": "Patricia warnte ihre Mitspielerinnen.",
+    "duration": 2.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17584849.mp3",
+    "text": "Bitte lauter stellen.",
+    "duration": 1.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17584850.mp3",
+    "text": "Dadurch vervielfacht sich die Zahl.",
+    "duration": 2.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17584851.mp3",
+    "text": "Hoffen wir, dass er nochmal ein Auge zudr\u00fccken wird.",
+    "duration": 3.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17586198.mp3",
+    "text": "Vielleicht w\u00e4re es f\u00fcr alle das Beste.",
+    "duration": 3.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17586199.mp3",
+    "text": "Programm \u00f6ffnen.",
+    "duration": 2.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17586200.mp3",
+    "text": "Rei\u00df dich am Riemen!",
+    "duration": 2.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17586201.mp3",
+    "text": "Mit einem Ruck setzte sich die Kabine in Bewegung.",
+    "duration": 3.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17586202.mp3",
+    "text": "Dort f\u00fchrt eine schmale Br\u00fccke \u00fcber den Bach.",
+    "duration": 3.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17586218.mp3",
+    "text": "Ich m\u00f6chte mich \u00fcber den schlechten Service in der Werkstatt beschweren.",
+    "duration": 3.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17586219.mp3",
+    "text": "Wohin mit all dem Kleingeld?",
+    "duration": 2.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17586220.mp3",
+    "text": "Kerstin besuchte ein Online-Vergleichsportal, um eine geeignete Unterkunft zu finden.",
+    "duration": 5.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17586221.mp3",
+    "text": "Schmei\u00df schon mal den Grill an.",
+    "duration": 2.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17586222.mp3",
+    "text": "Dem K\u00f6nig, noch beschwipst vom Wein, fiel direkt ein Ausweg ein.",
+    "duration": 4.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17586228.mp3",
+    "text": "Browser \u00f6ffnen.",
+    "duration": 1.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17586229.mp3",
+    "text": "Pl\u00f6tzlich hielt mir jemand eine Pistole an die Schl\u00e4fe.",
+    "duration": 4.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17586230.mp3",
+    "text": "Zwei der Satelliten sind leider nicht auf der vorgesehenen Umlaufbahn.",
+    "duration": 4.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17586231.mp3",
+    "text": "Was geht hier vor?",
+    "duration": 2.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17586232.mp3",
+    "text": "Bitte sage nicht Kalorien, wenn du Kilokalorien meinst, das ist ein Unterschied um den Faktor Tausend.",
+    "duration": 5.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17586233.mp3",
+    "text": "Die Beeren sind noch nicht reif.",
+    "duration": 2.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17586234.mp3",
+    "text": "Herr Ober, wir m\u00f6chten zahlen.",
+    "duration": 2.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17586235.mp3",
+    "text": "Ich wollte eigentlich nicht nach Saarbr\u00fccken fahren",
+    "duration": 3.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17586236.mp3",
+    "text": "Ist nicht so schlimm, versucht Helga zu tr\u00f6sten.",
+    "duration": 2.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17586237.mp3",
+    "text": "Durch seine glaubhafte Betonung haucht er den Geschichten Leben ein.",
+    "duration": 4.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17586243.mp3",
+    "text": "Ich habe diesen Ansatz noch nie gesehen.",
+    "duration": 2.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17586244.mp3",
+    "text": "Einige Dinge k\u00f6nnen auch in einem Konsulat erledigt werden.",
+    "duration": 3.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17586245.mp3",
+    "text": "Buenos Aires ist die Hauptstadt von Argentinien.",
+    "duration": 3.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17586246.mp3",
+    "text": "Irgendwie habe ich hier \u00fcberhaupt keinen Empfang.",
+    "duration": 3.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17586247.mp3",
+    "text": "Christopher sieht sich in seiner Ehre verletzt.",
+    "duration": 3.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17586248.mp3",
+    "text": "Das Eis ist so kalt, dass es dampft.",
+    "duration": 2.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17586249.mp3",
+    "text": "Hast du dein Ticket nach G\u00f6rlitz schon gebucht?",
+    "duration": 2.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17586250.mp3",
+    "text": "Was gibt es da zu lachen?",
+    "duration": 2.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17586251.mp3",
+    "text": "Okay, das ist nur ein Fl\u00fcchtigkeitsfehler.",
+    "duration": 3.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17586252.mp3",
+    "text": "Ab einem bestimmten Wert m\u00fcssen eingef\u00fchrte Waren verzollt werden.",
+    "duration": 4.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17586253.mp3",
+    "text": "Teil der Ausstellung ist ein mittelalterliches Katapult.",
+    "duration": 3.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17586254.mp3",
+    "text": "Frau Schmidt hat sich die Nase gesto\u00dfen.",
+    "duration": 3.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17586255.mp3",
+    "text": "Was hei\u00dft das auf Finnisch?",
+    "duration": 2.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17586256.mp3",
+    "text": "Liste anzeigen.",
+    "duration": 2.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17586257.mp3",
+    "text": "Eine Umleitung ist eingerichtet.",
+    "duration": 2.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17586273.mp3",
+    "text": "Lecker, es gibt Weintrauben!",
+    "duration": 2.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17586274.mp3",
+    "text": "Der Zug nach Frankfurt am Main ist schon um Dreiviertel drei abgefahren",
+    "duration": 4.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17586275.mp3",
+    "text": "Haben wir es eher mit isotroper oder mit anisotroper Diffusion zu tun?",
+    "duration": 4.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17586276.mp3",
+    "text": "Zudem gab es insgesamt weniger Handel zwischen Ost und West.",
+    "duration": 4.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17586277.mp3",
+    "text": "Lou konnte sich gar nicht wieder einkriegen.",
+    "duration": 2.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17586278.mp3",
+    "text": "An welcher Autobahnabfahrt muss ich die Autobahn verlassen, wenn ich nach Baden-Baden m\u00f6chte?",
+    "duration": 4.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17586279.mp3",
+    "text": "Die T\u00e4terin wurde offenbar unterbrochen.",
+    "duration": 2.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17586280.mp3",
+    "text": "Auch Spanisch ist eine Weltsprache.",
+    "duration": 2.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17586281.mp3",
+    "text": "In der Schule haben wir mit Delphi programmiert.",
+    "duration": 3.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17586282.mp3",
+    "text": "Bestehen Menschen aus mehr, als aus Fleisch und Knochen?",
+    "duration": 4.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17586283.mp3",
+    "text": "Wir haben da was auf dem Radar.",
+    "duration": 2.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17586284.mp3",
+    "text": "Ein Problem mit dem propriet\u00e4ren Treiber verhindert, dass der Computer aus dem Standby aufwacht.",
+    "duration": 5.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17586285.mp3",
+    "text": "Der ganze K\u00f6rper muss unter Spannung stehen.",
+    "duration": 3.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17586286.mp3",
+    "text": "Ich nehme Sie mit auf meine Reise ins Fl\u00e4chenland.",
+    "duration": 2.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17586287.mp3",
+    "text": "In Schritt zwei extrahieren wir die wichtigsten Features.",
+    "duration": 3.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17589397.mp3",
+    "text": "Es m\u00fcssen auch alle in dieselbe Richtung ziehen.",
+    "duration": 3.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17589398.mp3",
+    "text": "Nach der Einf\u00fchrung des Alkoholverbots gingen Reinigungskosten und Vandalismussch\u00e4den signifikant zur\u00fcck.",
+    "duration": 6.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17589399.mp3",
+    "text": "Erst jetzt fiel mir auf, dass dem Mann ein Fu\u00df fehlte.",
+    "duration": 3.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17589400.mp3",
+    "text": "Mit ihrer Firma ist Tatjana ordentlich am Kohle scheffeln.",
+    "duration": 3.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17589401.mp3",
+    "text": "Heutzutage lassen sich beide Br\u00fccken kostenlos \u00fcberqueren.",
+    "duration": 3.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17589402.mp3",
+    "text": "Bei dem Versuch, sich die Funktionsweise eines Planetengetriebes vorzustellen, wurde Ilse schwindelig.",
+    "duration": 6.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17589403.mp3",
+    "text": "Das Katzenauge ist abgefallen.",
+    "duration": 2.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17589404.mp3",
+    "text": "Funde von Biologen belegen sogar, dass es eine Art Kultur gibt, die von Generation zu Generation weitergegeben wird.",
+    "duration": 6.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17589405.mp3",
+    "text": "Aber bitte nur mit Bet\u00e4ubung.",
+    "duration": 2.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17589406.mp3",
+    "text": "Wir brauchen ein Alleinstellungsmerkmal.",
+    "duration": 3.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17589407.mp3",
+    "text": "Im Allg\u00e4u f\u00e4llt bereits erster Schnee.",
+    "duration": 2.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17589408.mp3",
+    "text": "Letzten Dialog l\u00f6schen.",
+    "duration": 2.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17589409.mp3",
+    "text": "Hat Stuttgart einen Bahnhof?",
+    "duration": 2.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17589410.mp3",
+    "text": "Hier sehen Sie unsere Kronjuwelen.",
+    "duration": 2.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17589411.mp3",
+    "text": "Nach vierzigj\u00e4hriger Herrschaft des Diktators gibt es nun einen Wechsel.",
+    "duration": 4.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17589412.mp3",
+    "text": "Reg dich nicht auf.",
+    "duration": 1.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17589413.mp3",
+    "text": "Hier geht es um die Wurst.",
+    "duration": 2.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17589414.mp3",
+    "text": "Franziska kann derzeit nicht schreiben, weil ihr Handgelenk wehtut.",
+    "duration": 4.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17589415.mp3",
+    "text": "Kann man heute in Essen mit Minustemperaturen rechnen?",
+    "duration": 3.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17589416.mp3",
+    "text": "Alles hat ein Ende, nur die Wurst hat zwei.",
+    "duration": 2.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17589417.mp3",
+    "text": "Die Insassen mussten per Hubschrauber gerettet werden.",
+    "duration": 3.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17589418.mp3",
+    "text": "Wir sind Zwillinge.",
+    "duration": 1.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17589419.mp3",
+    "text": "Touristen winkten den Leuten am Ufer zu.",
+    "duration": 3.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17589420.mp3",
+    "text": "Unter dem Motto: Rauchen gegen Rassismus.",
+    "duration": 2.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17589421.mp3",
+    "text": "Ich habe Sie gar nicht in meiner Datenbank, sagte die Sachbearbeiterin ratlos.",
+    "duration": 4.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17589422.mp3",
+    "text": "Atome k\u00f6nnen Molek\u00fcle bilden.",
+    "duration": 2.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17589423.mp3",
+    "text": "Ich bringe euch bis nach Hamburg",
+    "duration": 2.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17589424.mp3",
+    "text": "Margret versucht mit allen Mitteln, die drohende Katastrophe abzuwenden.",
+    "duration": 4.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17589425.mp3",
+    "text": "Das Kind ist bereits in den Brunnen gefallen.",
+    "duration": 3.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17589426.mp3",
+    "text": "Viktoria und die anderen haben sich k\u00f6stlich am\u00fcsiert.",
+    "duration": 3.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17589427.mp3",
+    "text": "Nein, aber Flickzeug.",
+    "duration": 2.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17589428.mp3",
+    "text": "Der geringe PH-Wert verhindert effektiv, dass sich Schimmel bilden kann.",
+    "duration": 4.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17589429.mp3",
+    "text": "Was ist gerade los auf Twitter?",
+    "duration": 2.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17589430.mp3",
+    "text": "Eduard musste eine Vollbremsung hinlegen.",
+    "duration": 3.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17589431.mp3",
+    "text": "Der landbasierte Handel zwischen Ost und West verlor an Relevanz.",
+    "duration": 4.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17589432.mp3",
+    "text": "Henrik hat bereits Taucherbrille und Schnorchel aufgesetzt.",
+    "duration": 3.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17589433.mp3",
+    "text": "Junge, Junge, das war knapp!",
+    "duration": 2.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17589434.mp3",
+    "text": "Gibt es denn kein Limit?",
+    "duration": 1.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17589435.mp3",
+    "text": "Es ist unh\u00f6flich, einen Baum nach seiner Geschichte zu fragen.",
+    "duration": 4.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17589436.mp3",
+    "text": "Au\u00dferdem hatte er einen hellen Pullover an, auf dem der Name irgendeiner amerikanischen Stadt stand.",
+    "duration": 6.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17589437.mp3",
+    "text": "Das ist zwar ein fr\u00fcher Entwurf, aber die Grundidee l\u00e4sst sich bereits erkennen.",
+    "duration": 4.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17589438.mp3",
+    "text": "Wunschliste anzeigen.",
+    "duration": 2.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17589439.mp3",
+    "text": "Licht im Wohnzimmer aus!",
+    "duration": 2.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17589440.mp3",
+    "text": "Der Nord-Ostsee-Kanal wird st\u00e4rker befahren als der Panamakanal.",
+    "duration": 5.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17589442.mp3",
+    "text": "Ab zwanzig Uhr d\u00fcrfen die \u00f6ffentlich-rechtlichen Sender keine Werbung mehr zeigen.",
+    "duration": 4.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17589443.mp3",
+    "text": "Patricia schl\u00e4ft tief und fest.",
+    "duration": 2.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17589445.mp3",
+    "text": "Das Band muss wirklich straff gezogen werden.",
+    "duration": 2.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17589446.mp3",
+    "text": "Mach's gut.",
+    "duration": 1.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17617531.mp3",
+    "text": "Fridolin hatte einen unfairen Vorteil.",
+    "duration": 3.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17617532.mp3",
+    "text": "Rasenfl\u00e4che betreten verboten.",
+    "duration": 2.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17617533.mp3",
+    "text": "Schau mal in der Legende nach.",
+    "duration": 2.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17617534.mp3",
+    "text": "Seit Franziska kein Semesterticket mehr hat, kauft sie sich regelm\u00e4\u00dfig eine Monatskarte.",
+    "duration": 6.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17617535.mp3",
+    "text": "Die Hauptstadt der Bundesrepublik Deutschland ist Berlin",
+    "duration": 3.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17617561.mp3",
+    "text": "Im Wohnzimmer meiner Gro\u00dfeltern steht ein Marmortisch.",
+    "duration": 3.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17617562.mp3",
+    "text": "Sven hat eine Eichel gefunden.",
+    "duration": 2.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17617563.mp3",
+    "text": "Klaus hat sein Referat noch nicht fertig.",
+    "duration": 3.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17617564.mp3",
+    "text": "Ralf ist ein alter Knacker, sprach Clemens wenig respektvoll.",
+    "duration": 4.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17617565.mp3",
+    "text": "Irgendwo in der Menschenmenge sind sie dann untergetaucht.",
+    "duration": 3.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17617571.mp3",
+    "text": "Den gr\u00f6\u00dften Beitrag zur Masse eines Atoms leistet der Kern.",
+    "duration": 4.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17617572.mp3",
+    "text": "Bridgetown ist die Hauptstadt von Barbados.",
+    "duration": 3.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17617573.mp3",
+    "text": "An dieser Stelle ist vor zwei Jahren eine Gondel abgest\u00fcrzt.",
+    "duration": 4.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17617574.mp3",
+    "text": "Wenn man die Teller direkt ins Waschbecken stellt, sind neunzig Prozent des Schmutzes bereits entfernt, bevor man mit dem eigentlichen Abwasch beginnt.",
+    "duration": 7.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17617575.mp3",
+    "text": "Mach doch selber, entgegnete Vanessa trotzig.",
+    "duration": 2.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17617611.mp3",
+    "text": "Herr B\u00f6ttcher ging mit seinem Sch\u00e4ferhund spazieren.",
+    "duration": 3.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17617612.mp3",
+    "text": "Dem werde ich ein Angebot machen, das er nicht ablehnen kann.",
+    "duration": 4.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17617613.mp3",
+    "text": "Der Zug nach Wetzlar f\u00e4hrt heute am Bahnsteig drei",
+    "duration": 3.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17617614.mp3",
+    "text": "Die M\u00fcnzpr\u00e4gung musste ebenfalls aufgegeben werden.",
+    "duration": 3.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17617615.mp3",
+    "text": "Der alte Kahn \u00e4chzte unter der Last.",
+    "duration": 2.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17617641.mp3",
+    "text": "Facebook \u00f6ffnen.",
+    "duration": 1.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17617642.mp3",
+    "text": "Umwege erh\u00f6hen die Ortskenntnis.",
+    "duration": 3.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17617643.mp3",
+    "text": "Bei diesem Feuerl\u00f6scher handelt es sich um einen Pulverl\u00f6scher.",
+    "duration": 3.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17617644.mp3",
+    "text": "Die beiden H\u00f6lzer wurden verleimt und zum Trocknen einige Stunden nicht anger\u00fchrt.",
+    "duration": 5.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17617645.mp3",
+    "text": "Muss ich wirklich wieder bis nach Hagen fahren?",
+    "duration": 3.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17617666.mp3",
+    "text": "Wem f\u00e4llt ein Reim auf Asien ein?",
+    "duration": 2.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17617667.mp3",
+    "text": "Es bleibt spannend abzuwarten, ob wir eines Tages von unserer eigenen Sch\u00f6pfung ausgerottet werden.",
+    "duration": 6.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17617668.mp3",
+    "text": "Nach dem Essen sch\u00fcttelt Nicola die Tischdecke aus.",
+    "duration": 3.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17617669.mp3",
+    "text": "In seinen H\u00e4nden hielt Herbert seine fristlose K\u00fcndigung.",
+    "duration": 4.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17617670.mp3",
+    "text": "Ein Schelm, wer B\u00f6ses dabei denkt.",
+    "duration": 2.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17617671.mp3",
+    "text": "Ich muss nachladen.",
+    "duration": 1.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17617672.mp3",
+    "text": "Lied Nummer f\u00fcnfhundertzweiunddrei\u00dfig l\u00e4sst sich besonders gut im Kanon singen.",
+    "duration": 5.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17617673.mp3",
+    "text": "Einige der zerst\u00f6rten Akten werden immer noch zusammengesetzt.",
+    "duration": 4.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17617674.mp3",
+    "text": "Steht die Internet-Verbindung?",
+    "duration": 2.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17617675.mp3",
+    "text": "Emanuela ist sich unsicher, wie sie ihr Geld am sinnvollsten anlegen soll.",
+    "duration": 4.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17617676.mp3",
+    "text": "Heidi wandte ihr Gesicht ab.",
+    "duration": 2.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17617677.mp3",
+    "text": "Stellt die Post Pakete auch am Samstag zu?",
+    "duration": 3.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17617678.mp3",
+    "text": "Verzeiht mir meine Obsz\u00f6nit\u00e4ten.",
+    "duration": 2.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17617679.mp3",
+    "text": "Wir sind hier nicht bei W\u00fcnsch-dir-was.",
+    "duration": 2.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17617680.mp3",
+    "text": "In welchem Ressort w\u00fcrden Sie bevorzugt arbeiten?, fragte der Personalchef den Junior-Redakteur.",
+    "duration": 6.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17617681.mp3",
+    "text": "Hast du mal eine Feile oder ein St\u00fcck Schmirgelpapier?",
+    "duration": 3.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17617682.mp3",
+    "text": "Woher hat der Knabe nur seine Aggressionen?",
+    "duration": 2.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17617683.mp3",
+    "text": "Nebenbei bemerkt sind Haferflocken auch reich an Ballaststoffen.",
+    "duration": 4.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17617684.mp3",
+    "text": "Verena ist erstaunt, dass in dieser heterogenen Gruppe alle so gut miteinander auskamen.",
+    "duration": 6.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17617685.mp3",
+    "text": "Volker hat am vierzehnten M\u00e4rz Geburtstag.",
+    "duration": 3.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17617706.mp3",
+    "text": "An Pfingsten besuchen wir Onkel Heinz.",
+    "duration": 3.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17617707.mp3",
+    "text": "Dieser Fehler ist mir bei meinem letzten Versuch unterlaufen.",
+    "duration": 3.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17617708.mp3",
+    "text": "Marcel ist gut in Informatik.",
+    "duration": 2.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17617709.mp3",
+    "text": "Besserung ist nicht in Sicht.",
+    "duration": 2.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17617710.mp3",
+    "text": "Der Kobold naschte vom gr\u00fcngelben Schleim.",
+    "duration": 3.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17625299.mp3",
+    "text": "Der Bus f\u00e4hrt nach Heidelberg",
+    "duration": 1.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17625300.mp3",
+    "text": "Gibt es eine direkte Bahnverbindung zwischen Krefeld und Nordhorn?",
+    "duration": 4.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17625301.mp3",
+    "text": "Mir ist langweilig.",
+    "duration": 2.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17625302.mp3",
+    "text": "South Tarawa ist die Hauptstadt von Kiribati.",
+    "duration": 3.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17625303.mp3",
+    "text": "Wo kann man in Bonn gut essen gehen?",
+    "duration": 2.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17625304.mp3",
+    "text": "Von neunzehn-hundert-siebundvierzig bis neunzehn-hundert-neunundf\u00fcnfzig war Karatschi die Hauptstadt von Pakistan.",
+    "duration": 7.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17625305.mp3",
+    "text": "Es ist die Fliehkraft, die den Motor bei zu hoher Drehzahl zerst\u00f6rt.",
+    "duration": 3.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17625306.mp3",
+    "text": "Ich mag kein Gem\u00fcse.",
+    "duration": 1.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17625308.mp3",
+    "text": "Ein paar Jugendliche haben das Dixi-Klo umgeworfen.",
+    "duration": 3.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17625324.mp3",
+    "text": "Falls Sie noch etwas Training brauchen, steht Ihnen der \u00dcbungsplatz zur Verf\u00fcgung.",
+    "duration": 4.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17625325.mp3",
+    "text": "Dieser Remix gef\u00e4llt Gerald nicht so gut.",
+    "duration": 2.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17625326.mp3",
+    "text": "Willst du wirklich bis nach N\u00fcrnberg fahren?",
+    "duration": 2.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17625327.mp3",
+    "text": "Das Konzept ist gut, an der Umsetzung m\u00fcssen wir noch feilen.",
+    "duration": 4.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17625328.mp3",
+    "text": "Die Schnellrestaurant-Kette wird verd\u00e4chtigt, ihre Mitarbeiter zu bespitzeln.",
+    "duration": 4.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17625339.mp3",
+    "text": "Onkel Dieter holte sein Schwei\u00dfger\u00e4t heraus und machte sich ans Werk.",
+    "duration": 4.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17625340.mp3",
+    "text": "Haben wir einen Beh\u00e4lter f\u00fcr die Walnussschale?",
+    "duration": 2.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17625341.mp3",
+    "text": "Eine Zivilperson wurde im Kreuzfeuer get\u00f6tet.",
+    "duration": 3.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17625342.mp3",
+    "text": "Was hei\u00dft das auf B\u00fcndnerromanisch?",
+    "duration": 2.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17625343.mp3",
+    "text": "Champignons, Basilikum und Oliven\u00f6l sind noch \u00fcber.",
+    "duration": 3.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17625349.mp3",
+    "text": "Julia f\u00fchlte sich unterfordert.",
+    "duration": 2.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17625350.mp3",
+    "text": "Gibt es eine Flugverbindung zwischen Mainz und L\u00fcbeck?",
+    "duration": 3.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17625351.mp3",
+    "text": "Jetzt ist \u00c4rmel hochkrempeln angesagt.",
+    "duration": 2.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17625352.mp3",
+    "text": "Onkel Dagobert gr\u00fc\u00dft seinen Neffen, hie\u00df es in dem harmlos anmutenden Inserat.",
+    "duration": 5.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17625353.mp3",
+    "text": "Dili ist die Hauptstadt von Osttimor.",
+    "duration": 2.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17625384.mp3",
+    "text": "Jetzt hat Jessica die Z\u00fcgel in der Hand.",
+    "duration": 2.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17625385.mp3",
+    "text": "Schwester Jutta bitte zur Notaufnahme, Schwester Jutta bitte.",
+    "duration": 3.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17625386.mp3",
+    "text": "Passen Sie auf, dass sich aus dem Problemchen, wie Sie es nennen, kein Fl\u00e4chenbrand entwickelt.",
+    "duration": 5.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17625387.mp3",
+    "text": "Was hei\u00dft das auf Ungarisch?",
+    "duration": 1.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17625388.mp3",
+    "text": "Thimphu ist die Hauptstadt von Bhutan.",
+    "duration": 3.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17625500.mp3",
+    "text": "Aludeckel von Plastikverpackungen sollte man abziehen, bevor man sie in den gelben Sack schmei\u00dft.",
+    "duration": 5.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17625501.mp3",
+    "text": "Das hat die Kommission so entschieden.",
+    "duration": 2.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17625502.mp3",
+    "text": "Nouakchott ist die Hauptstadt von Mauretanien.",
+    "duration": 3.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17625503.mp3",
+    "text": "Der F\u00fchrer bl\u00e4st zum Angriff ins Horn.",
+    "duration": 2.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17625504.mp3",
+    "text": "Ich muss noch schnell zum Metzger.",
+    "duration": 2.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17625539.mp3",
+    "text": "Wie warm wird es morgen?",
+    "duration": 1.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17625540.mp3",
+    "text": "Kinder sollten die Grenzen ihrer Eltern kennen.",
+    "duration": 2.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17625541.mp3",
+    "text": "Probier's mal mit Gem\u00fctlichkeit!",
+    "duration": 1.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17625542.mp3",
+    "text": "Die Datenbank wurde aktualisiert.",
+    "duration": 2.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17625543.mp3",
+    "text": "Derzeit sind uns noch die H\u00e4nde gebunden.",
+    "duration": 2.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17625579.mp3",
+    "text": "Der Arktische Ozean, wird auch als Nordpolarmeer oder n\u00f6rdliches Eismeer bezeichnet.",
+    "duration": 6.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17625580.mp3",
+    "text": "Keine Widerrede, das wird sofort erledigt!",
+    "duration": 2.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17625581.mp3",
+    "text": "Und ab dieser Stelle habe ich wieder eine Erinnerungsl\u00fccke.",
+    "duration": 3.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17625582.mp3",
+    "text": "Er l\u00fcgt, dass sich die Balken biegen.",
+    "duration": 2.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17625583.mp3",
+    "text": "Und dies war von Erfolg.",
+    "duration": 2.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17625595.mp3",
+    "text": "Aufgabe der Schule ist Bildung, nicht Ausbildung, erinnert der Direktor die Eltern.",
+    "duration": 5.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17625596.mp3",
+    "text": "Der Herrscher stimmte diesem zu, denn er erkannte das Dilemma im Nu.",
+    "duration": 4.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17625597.mp3",
+    "text": "Morgen kommt Dora aus ihrem Skiurlaub in S\u00f6lden wieder.",
+    "duration": 3.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17625598.mp3",
+    "text": "Rohkost ist f\u00fcr S\u00e4uglinge nicht geeignet.",
+    "duration": 2.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17628225.mp3",
+    "text": "F\u00fchrerschein und Fahrzeugpapiere, bitte!",
+    "duration": 2.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17628226.mp3",
+    "text": "Was bedeutet das f\u00fcr EU-B\u00fcrger?",
+    "duration": 2.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17628227.mp3",
+    "text": "Der japanische Staatsgast deutete eine Verbeugung an.",
+    "duration": 3.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17628228.mp3",
+    "text": "Ist es in N\u00fcrnberg nebelig?",
+    "duration": 2.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17628229.mp3",
+    "text": "Vientiane ist die Hauptstadt von Laos.",
+    "duration": 3.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17628230.mp3",
+    "text": "Sarajevo ist die Hauptstadt von Bosnien und Herzegowina.",
+    "duration": 3.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17628231.mp3",
+    "text": "Verzichten muss sie trotzdem nicht.",
+    "duration": 2.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17628232.mp3",
+    "text": "Irina gibt immer ordentlich Salz und Pfeffer dazu.",
+    "duration": 4.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17628234.mp3",
+    "text": "Der Verteidigungsminister bezeichnete das Man\u00f6ver als klugen Schachzug.",
+    "duration": 4.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17628255.mp3",
+    "text": "Der Jupiter ist der gr\u00f6\u00dfte Planet des Sonnensystems.",
+    "duration": 3.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17628256.mp3",
+    "text": "Dank der Seilwinde konnte er wieder auf die Stra\u00dfe gezogen werden.",
+    "duration": 4.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17628257.mp3",
+    "text": "Die Feststelltaste war n\u00e4mlich aktiviert.",
+    "duration": 3.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17628258.mp3",
+    "text": "So drastisch w\u00fcrde ich es nicht ausdr\u00fccken.",
+    "duration": 3.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17628259.mp3",
+    "text": "Waldemar zog den St\u00f6psel.",
+    "duration": 2.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17628260.mp3",
+    "text": "Der Kapuzenpulli schien etwas zu klein zu sein.",
+    "duration": 3.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17628261.mp3",
+    "text": "Voll auf die zw\u00f6lf!",
+    "duration": 1.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17628262.mp3",
+    "text": "Ein weiterer Flugzeugtr\u00e4ger ist bereits auf dem Weg ins Krisengebiet.",
+    "duration": 4.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17628263.mp3",
+    "text": "Jeder W\u00e4hler hat das Recht, sich die Ausz\u00e4hlung anzusehen.",
+    "duration": 4.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17628264.mp3",
+    "text": "Die Epoche wurde nach den riesigen Stadtmauern benannt.",
+    "duration": 3.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17628290.mp3",
+    "text": "Mit dem w\u00fcrde ich nicht gerne allein in einem Raum sein.",
+    "duration": 3.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17628291.mp3",
+    "text": "Beim derzeitigen Pollenflug sollten Allergiker lieber drinnen bleiben.",
+    "duration": 3.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17628292.mp3",
+    "text": "Weil Hannes zu sp\u00e4t aufgestanden war, schaffte er es nicht mehr, sich zu rasieren.",
+    "duration": 4.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17628293.mp3",
+    "text": "Die letzte Interaktion war erfolgreich.",
+    "duration": 2.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17628294.mp3",
+    "text": "Darf ich dich auf ein Eis einladen?",
+    "duration": 2.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17628305.mp3",
+    "text": "Ein T\u00fctchen Backpulver reicht f\u00fcr f\u00fcnfhundert Gramm Mehl.",
+    "duration": 3.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17628306.mp3",
+    "text": "Sie muss sich erst noch einleben.",
+    "duration": 2.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17628307.mp3",
+    "text": "Quito ist die Hauptstadt von Ecuador.",
+    "duration": 2.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17628309.mp3",
+    "text": "Was soll an dicken Lippen sch\u00f6n sein?",
+    "duration": 2.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17628320.mp3",
+    "text": "Wie lange werde ich heute zur Arbeit brauchen?",
+    "duration": 3.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17628321.mp3",
+    "text": "Nach der Passkontrolle beginnt der Transitbereich.",
+    "duration": 3.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17628322.mp3",
+    "text": "Haben Sie schon versucht, das Ger\u00e4t aus- und wieder einzuschalten?",
+    "duration": 4.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17628323.mp3",
+    "text": "Wo sehen Sie sich in f\u00fcnf Jahren?",
+    "duration": 2.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17628324.mp3",
+    "text": "Totschweigen funktioniert immer.",
+    "duration": 2.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17628330.mp3",
+    "text": "Die Koreaner springen nun auch auf diesen Zug auf.",
+    "duration": 2.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17628331.mp3",
+    "text": "Warst du schon mal in Herne?",
+    "duration": 2.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17628332.mp3",
+    "text": "Damit \u00fcbertrifft M\u00fcller seinen bisherigen Bestwert um f\u00fcnf Zehntel.",
+    "duration": 5.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17628333.mp3",
+    "text": "Du bist sp\u00e4t dran.",
+    "duration": 1.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17628334.mp3",
+    "text": "Dichter Qualm entwich aus dem Schornstein.",
+    "duration": 3.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17628540.mp3",
+    "text": "Ist dir nicht gut?",
+    "duration": 2.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17628541.mp3",
+    "text": "Kann man das Kartenmaterial kostenlos herunterladen?",
+    "duration": 3.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17628543.mp3",
+    "text": "Das kannst du laut sagen.",
+    "duration": 2.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17628544.mp3",
+    "text": "Auf einem Teller, den niemand wegger\u00e4umt hatte, lagen die stinkenden Gr\u00e4ten vom Vorabend.",
+    "duration": 6.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17628546.mp3",
+    "text": "Die letzte Interaktion war nicht erfolgreich.",
+    "duration": 3.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17628701.mp3",
+    "text": "Zapfen sind f\u00fcr die Farbwahrnehmung zust\u00e4ndig, w\u00e4hrend die St\u00e4bchen das Nachtsehen erm\u00f6glichen.",
+    "duration": 5.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17628703.mp3",
+    "text": "Bei variabler Bitrate geht immer die Synchronisation zwischen Audio und Untertiteln verloren.",
+    "duration": 5.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17628704.mp3",
+    "text": "Wenn man die Inflation ber\u00fccksichtigt, sind die Zinsen sogar negativ.",
+    "duration": 4.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17628706.mp3",
+    "text": "Vielleicht ja beim n\u00e4chsten Softwareupdate.",
+    "duration": 2.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17628708.mp3",
+    "text": "Mein Sohn vermisst sein Kuscheltier.",
+    "duration": 2.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17645762.mp3",
+    "text": "Da muss man h\u00f6llisch aufpassen.",
+    "duration": 2.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17645763.mp3",
+    "text": "Darunter war auch ein Liebesbrief aus dem Jahr neunzehnhunderteinundzwanzig.",
+    "duration": 4.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17645764.mp3",
+    "text": "In einigen L\u00e4ndern kann man das Visum direkt bei der Einreise erwerben.",
+    "duration": 4.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17645765.mp3",
+    "text": "Dir sind deine Sachen verrutscht.",
+    "duration": 2.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17645766.mp3",
+    "text": "Sport ist Mord, aber Sportler scheinen viele Leben zu haben.",
+    "duration": 3.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17645767.mp3",
+    "text": "M\u00f6chten Sie einchecken?",
+    "duration": 1.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17645768.mp3",
+    "text": "Wann haben Sie sich an der Universit\u00e4t eingeschrieben?",
+    "duration": 3.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17645769.mp3",
+    "text": "In dem Ger\u00fcmpel sollen wir die Skulptur finden?",
+    "duration": 2.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17645770.mp3",
+    "text": "Tatjana ist total verstrahlt.",
+    "duration": 2.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17645771.mp3",
+    "text": "Gibt es neue Meldungen?",
+    "duration": 1.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17645780.mp3",
+    "text": "Dies ist schlecht f\u00fcr die \u00f6rtliche Wirtschaft.",
+    "duration": 2.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17645781.mp3",
+    "text": "Woher wussten Sie von dem Plan?",
+    "duration": 2.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17645782.mp3",
+    "text": "Nur der Gastgeber hat das Recht, weitere Leute einzuladen.",
+    "duration": 3.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17645783.mp3",
+    "text": "Seien Sie froh.",
+    "duration": 1.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17645784.mp3",
+    "text": "Das Stauende liegt hinter einer Kurve.",
+    "duration": 2.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17645785.mp3",
+    "text": "Paris ist die Hauptstadt von Frankreich.",
+    "duration": 2.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17645786.mp3",
+    "text": "Was hei\u00dft das auf Niederl\u00e4ndisch?",
+    "duration": 2.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17645787.mp3",
+    "text": "Ich denke, insgeheim hat Stefanie sich schon so etwas gedacht.",
+    "duration": 3.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17645788.mp3",
+    "text": "Wir regeln das sp\u00e4ter.",
+    "duration": 1.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17645789.mp3",
+    "text": "Dein Kleinwagen bietet im Prinzip alles, was man braucht, ist aber etwas schwach auf der Brust.",
+    "duration": 5.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17645795.mp3",
+    "text": "Valerie wohnt in einem alten Plattenbau aus DDR-Zeiten.",
+    "duration": 3.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17645796.mp3",
+    "text": "Wann wurden die Nomaden sesshaft?",
+    "duration": 2.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17645797.mp3",
+    "text": "Ab wann muss man zum Idiotentest?",
+    "duration": 2.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17645798.mp3",
+    "text": "Ich habe meine Brille vergessen.",
+    "duration": 2.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17645799.mp3",
+    "text": "Die M\u00fcritz ist der gr\u00f6\u00dfte See, der komplett innerhalb der Bundesrepublik liegt.",
+    "duration": 4.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17645805.mp3",
+    "text": "Thorsten kann schneller tippen als sprechen.",
+    "duration": 2.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17645806.mp3",
+    "text": "Mozilla Firefox beenden.",
+    "duration": 2.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17645807.mp3",
+    "text": "Im Zuge von Sparma\u00dfnahmen wurde ein Drittel der Belegschaft entlassen.",
+    "duration": 4.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17645808.mp3",
+    "text": "Weitermachen!",
+    "duration": 1.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17645809.mp3",
+    "text": "Es ist schon faszinierend, dass Regenw\u00fcrmer und Seesterne abgetrennte K\u00f6rperteile einfach regenerieren k\u00f6nnen.",
+    "duration": 5.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17645810.mp3",
+    "text": "Mittels Rasterfahndung sind sie ihm auf die Schliche gekommen.",
+    "duration": 3.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17645811.mp3",
+    "text": "Oskar schwelgte in Erinnerungen.",
+    "duration": 2.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17645812.mp3",
+    "text": "F\u00fcr die einen eine Heldentat, f\u00fcr die anderen eine Tods\u00fcnde.",
+    "duration": 3.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17645813.mp3",
+    "text": "Du bist wohl nicht mehr ganz dicht!",
+    "duration": 2.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17645814.mp3",
+    "text": "Ja, welches Forum meine ich wohl?",
+    "duration": 2.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17645815.mp3",
+    "text": "Niemand, der es versucht hat, hat den Kern des Planeten erreicht.",
+    "duration": 3.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17645816.mp3",
+    "text": "Das ist unheimlich.",
+    "duration": 1.8
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17645817.mp3",
+    "text": "Bitte leiser sprechen.",
+    "duration": 1.9
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17645818.mp3",
+    "text": "Dein Timing ist denkbar schlecht.",
+    "duration": 2.3
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17645819.mp3",
+    "text": "Ankara ist die Hauptstadt der T\u00fcrkei.",
+    "duration": 2.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17645847.mp3",
+    "text": "Ich m\u00f6chte nach Trier",
+    "duration": 2.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17645848.mp3",
+    "text": "Flensburg ist kein Vergleich zu Stuttgart",
+    "duration": 2.6
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17645849.mp3",
+    "text": "Wer kann mir einen ber\u00fchmten Maler der Postmoderne nennen?",
+    "duration": 3.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17645850.mp3",
+    "text": "Und damit sind wir auch schon am Ende der Sendung, leitete der Moderator zum n\u00e4chsten Thema \u00fcber.",
+    "duration": 6.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17645851.mp3",
+    "text": "Dies ist das einzige Kaufhaus der Stadt, in dem es noch einen Paternosteraufzug gibt.",
+    "duration": 6.0
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17645862.mp3",
+    "text": "Michaela kann endlich offen \u00fcber das Erlebte sprechen.",
+    "duration": 3.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17645863.mp3",
+    "text": "Nehmen wir Schwein, Rind oder gemischtes Hackfleisch?",
+    "duration": 3.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17645864.mp3",
+    "text": "Wenn man Gegenst\u00e4nde auf die L\u00fcftungsschlitze von elektrischen Ger\u00e4ten stellt, kann es passieren, dass diese \u00fcberhitzen.",
+    "duration": 7.1
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17645865.mp3",
+    "text": "Sie kramte in ihrer Tasche.",
+    "duration": 2.2
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_17645866.mp3",
+    "text": "Libreville ist die Hauptstadt von Gabun.",
+    "duration": 3.5
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18862913.mp3",
+    "text": "Das ramponierte Image haben sie sich selbst zuzuschreiben.",
+    "duration": 4.7
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18862914.mp3",
+    "text": "Er macht einen unterforderten Eindruck.",
+    "duration": 3.4
+  },
+  {
+    "audio_filepath": "{root}/cv-corpus-10.0-2022-07-04/de/clips/common_voice_de_18862915.mp3",
+    "text": "Mit der Kippe sind Sie f\u00fcr Ihr Kind gef\u00e4hrlicher als ich.",
+    "duration": 4.3
+  }
+]
